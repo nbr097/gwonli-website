@@ -1,6 +1,7 @@
 <script>
     import Nav from "./Nav.svelte";
     import Foot from "./Foot.svelte";
+
 </script>
 <Nav />
 <div class="bg-white mt-24 dark:bg-zinc-800">
@@ -58,6 +59,15 @@
 
                             <li>Machine wash cold with similar colors</li>
                         </ul>
+                    </div>
+                    <div class="mt-8 border-t border-gray-200 pt-8">
+                   
+                        <select>
+                            <option>your</option>
+                            <option>gay</option>
+                            <option>mum</option>
+                        </select>
+                   
                     </div>
                 </div>
                 <form>

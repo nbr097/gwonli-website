@@ -1,6 +1,27 @@
 <script>
     import Nav from "./Nav.svelte";
     import Foot from "./Foot.svelte";
+
+    let selected;
+
+let products = [
+    {
+        id: 123,
+        name: 'Small',
+        price: 5000
+    },
+    {
+        id: 124,
+        name: 'Medium',
+        price: 6000
+    },
+    {
+        id: 125,
+        name: 'Large',
+        price: 7000
+    }
+]
+$: console.log(selected);
 </script>
 <Nav />
 <div class="bg-white dark:bg-zinc-800 mt-24">
@@ -11,7 +32,7 @@
                     <h1 class="text-3xl font-medium text-zinc-800 dark:text-white overflow-hidden">Official Gwonli Hoodie</h1>
                     </div>
                     <div class="pt-4">
-                    <p class="text-xl font-medium text-zinc-800 dark:text-white">$80.00</p>
+                    <p class="text-xl font-medium text-zinc-800 dark:text-white">$80</p>
                 </div>
             </div>
 
@@ -81,6 +102,19 @@
                             <li>Machine wash cold with similar colors</li>
                         </ul>
                     </div>
+                
+                    <div class="mt-4 prose prose-sm text-gray-500 dark:text-white">
+                        <form>
+                            <label for="variant">Variant</label>
+                            <select name="variant" value={selected}>
+                                {#each products as product}
+                                    <option value={product}>
+                                        {product.name + ' - ' + product.price}
+                                    </option>
+                                {/each}
+                            </select>
+                        </form>
+                    </div>
                 </div>
                 <form>
                     <a href="mailto:merch@gwonli.com?subject=Order%20Enquiry%20-%20Gwonli%20Hoodie&body=Hi%2C%0D%0A%0D%0AI%20would%20like%20to%20order%20(1)x%20Gwonli%20Hoodie(s)%20in%20a%20Small%2FMedium%2FLarge%20size%20for%20STUDENT%20NAME%0D%0A%0D%0AKind%20regards%2C">
@@ -106,7 +140,7 @@
                     <div class="mt-4 flex justify-between">
                         <div>
                             <h3 class="text-sm text-gray-700 dark:text-white">
-                                <a href="/GwonliHoodiePage">
+                                <a href="/GwonliUniformPage">
                                     <span aria-hidden="true" class="absolute inset-0"></span>
                                     Official Gwonli Uniform
                                 </a>
@@ -148,7 +182,7 @@
                     <div class="mt-4 flex justify-between">
                         <div>
                             <h3 class="text-sm text-gray-700 dark:text-white">
-                                <a href="GwonliBeltRackPage">
+                                <a href="/GwonliStandardBagPage">
                                     <span aria-hidden="true" class="absolute inset-0"></span>
                                     Official Gwonli Bag
                                 </a>

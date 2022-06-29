@@ -3,10 +3,12 @@
 		<div class="flex justify-between">
 			<div class="flex space-x-4 py-2 mx-0">
 				<span class="cursor-pointer text-white flex " style="font-family: Renfrew;">
+					<a href="/">
 					<img class="h-20 visible dark:hidden object-scale-down"
 						src="https://raw.githubusercontent.com/nbr097/gwonli/main/logo%20black.png" alt="logo">
 					<img class="h-0 dark:h-20 invisible dark:visible object-scale-down"
 						src="https://raw.githubusercontent.com/nbr097/gwonli/main/logo%20white.png" alt="logo">
+					</a>
 				</span>
 				<div>
 					<a href="/" class="flex items-center py-5 px-2 text-black hover:text-gray-800">

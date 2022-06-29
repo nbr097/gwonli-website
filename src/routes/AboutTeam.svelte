@@ -63,6 +63,7 @@
                 <div class="text-lg leading-6 font-medium space-y-1">
                   <h3 class="text-zinc-800 dark:text-white">Tim</h3>
                   <p class="text-red-600"> Assistant Instructor</p>
+                  <p class="font-normal italic text-zinc-800 dark:text-white">Kyo Bu Nim</p>
                 </div>
                 <ul role="list" class="flex space-x-5">
                   <li>

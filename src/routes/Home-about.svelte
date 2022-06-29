@@ -18,7 +18,7 @@
                 </p>
             </div>
             <div class="box col-span-4 mx-auto">
-                <a href="#about-us">
+                <a href="/About-us">
                     <button
                         class="text-white w-28 h-12 rounded-lg hover:bg-red-500 bg-red-600  font-bold">Read
                         More

@@ -2,20 +2,19 @@
     import Nav from "./Nav.svelte";
     import MerchPageheader from "./MerchPageHeader.svelte";
     import Foot from "./Foot.svelte";
-    import Merchsidebar from "./Merchsidebar.svelte";
 </script>
 <Nav />
 <MerchPageheader />
-<section class="scroll-smooth">
+<section class="scroll-smooth bg-gray-100 dark:bg-zinc-800">
    
-    <div class="dark:bg-white bg-zinc-800" id="bags">
+    <div class="dark:bg-zinc-800 bg-gray-100 " id="bags">
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-            <h1 class="text-center uppercase font-medium pb-4 text-3xl text-white dark:text-zinc-800" style="font-family:renfrew;">Bags</h1>
+            <h1 class="text-center uppercase font-medium pb-4 text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Bags</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
                 <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
+                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100 dark:bg-zinc-800">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/bags/Bag1.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="bag"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -25,7 +24,7 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
                             <a href="/GwonliStandardBagPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
@@ -39,7 +38,7 @@
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/bags/Bag2.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="lorem"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -49,7 +48,7 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
                             <a href="/GwonliPersonalisedBagPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
@@ -63,14 +62,14 @@
             </div>
         </div>
     </div>
-    <div class="dark:bg-white bg-zinc-800 lg:-mt-40" id="uniforms">
+    <div class="bg-gray-100 dark:bg-zinc-800 lg:-mt-40" id="uniforms">
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-            <h1 class="text-center uppercase font-medium pb-4 text-3xl text-white dark:text-zinc-800" style="font-family:renfrew;">Uniforms</h1>
+            <h1 class="text-center uppercase font-medium pb-4 text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Uniforms</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/uniform/Uniform1.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="Uniform"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -80,7 +79,7 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
                             <a href="/GwonliUniformPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
@@ -94,7 +93,7 @@
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/uniform/KidsPlain.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="kids uniform"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -104,7 +103,7 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
                             <a href="/GwonliJnrUniform">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
@@ -118,14 +117,14 @@
             </div>
         </div>
     </div>
-    <div class="dark:bg-white bg-zinc-800 lg:-mt-40 -scroll-pt-96" id="rings">
+    <div class="bg-gray-100 dark:bg-zinc-800 lg:-mt-40 -scroll-pt-96" id="rings">
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-            <h1 class="text-center uppercase font-medium pb-4 text-3xl text-white dark:text-zinc-800" style="font-family:renfrew;">Signet Rings</h1>
+            <h1 class="text-center uppercase font-medium pb-4 text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Signet Rings</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/rings/signet-ring.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="Signet Ring"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -135,7 +134,7 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
                             <a href="/GwonliSignetRingPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
@@ -148,14 +147,14 @@
             </div>
         </div>
     </div>
-    <div class="dark:bg-white bg-zinc-800 lg:-mt-40" id="belts">
+    <div class="bg-gray-100 dark:bg-zinc-800 lg:-mt-40" id="belts">
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-            <h1 class="text-center font-medium pb-4 uppercase text-3xl text-white dark:text-zinc-800" style="font-family:renfrew;">Belts</h1>
+            <h1 class="text-center font-medium pb-4 uppercase text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Belts</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/belts/BeltRack.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="Belt Rack"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -165,9 +164,9 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
-                            <a href="#">
+                            <a href="/BeltRackPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
                                 Gwonli Hanging Belt Rack
                             </a>
@@ -179,7 +178,7 @@
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/belts/belts.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="lorem"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -189,9 +188,9 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
-                            <a href="#">
+                            <a href="/BeltPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
                                 Replacement Belt
                             </a>
@@ -203,14 +202,14 @@
             </div>
         </div>
     </div>
-    <div class="dark:bg-white bg-zinc-800 lg:-mt-40" id="casual">
+    <div class="bg-gray-100 dark:bg-zinc-800 lg:-mt-40" id="casual">
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-            <h1 class="text-center font-medium pb-4 uppercase text-3xl text-white dark:text-zinc-800" style="font-family:renfrew;">Casual Wear</h1>
+            <h1 class="text-center font-medium pb-4 uppercase text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Casual Wear</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/hoodie/Hoodie.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="lorem"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -220,7 +219,7 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
                             <a href="/GwonliHoodiePage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
@@ -234,7 +233,7 @@
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/shirts/T-shirt1.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="lorem"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -244,9 +243,9 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
-                            <a href="#">
+                            <a href="/GwonliShirtPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
                                 Gwonli Shirt
                             </a>
@@ -258,7 +257,7 @@
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/tie/mens-tie.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="lorem"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -268,9 +267,9 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
-                            <a href="#">
+                            <a href="GwonliTiePage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
                                 Gwonli Embroidered Tie
                             </a>
@@ -282,7 +281,7 @@
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/hats/Cap1.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="lorem"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -292,9 +291,9 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
-                            <a href="#">
+                            <a href="/GwonliCapPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
                                 Gwonli Embroidered Cap
                             </a>
@@ -306,7 +305,7 @@
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/shirts/rash.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="lorem"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -316,9 +315,9 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
-                            <a href="#">
+                            <a href="/GwonliRashPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
                                 Gwonli Rank Rash Shirt
                             </a>
@@ -330,7 +329,7 @@
                 <div class="relative group">
                     <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
                         <img src="https://github.com/nbr097/gwonli/blob/main/images/merch/other/mma-shorts.jpg?raw=true"
-                            alt="Payment application dashboard screenshot with transaction table, financial highlights, and main clients on colorful purple background."
+                            alt="lorem"
                             class="object-center object-cover">
                         <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
                             aria-hidden="true">
@@ -340,9 +339,9 @@
                         </div>
                     </div>
                     <div
-                        class="mt-4 flex items-center justify-between text-base font-medium text-white dark:text-zinc-800 space-x-8">
+                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
                         <h3>
-                            <a href="#">
+                            <a href="/GwonliMMAShortsPage">
                                 <span aria-hidden="true" class="absolute inset-0"></span>
                                 Gwonli MMA Shorts
                             </a>
