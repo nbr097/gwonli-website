@@ -1,4 +1,4 @@
-@import url('/renfrew.woff2');
+@import url(/renfrew.woff2);
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
