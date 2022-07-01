@@ -11,18 +11,18 @@
 					</a>
 				</span>
 				<div>
-					<a href="/" class="flex items-center py-5 px-2 text-black hover:text-gray-800">
+					<a href="/" class="flex items-center pt-7 lg:py-5 px-2 text-black hover:text-gray-800">
 							<span style="font-family:'renfrew"
-							class="text-sm md:text-sm lg:text-3xl py-1 text-zinc-800 dark:text-white uppercase font-bold">Gwonli Martial Arts</span>
+							class="invisible h-0 lg:h-10 lg:visible lg:text-2xl xl:text-3xl lg:py-1 text-zinc-800 dark:text-white uppercase font-bold">Gwonli Martial Arts</span>
 					</a>
 				</div>
 			</div>
 
 			<div class="hidden md:flex items-center space-x-1 text-zinc-800 dark:text-white font-medium">
-				<a href="/About-us" class="py-5 px-3 hover:bg-zinc-200 dark:hover:bg-zinc-600 rounded-xl ">about us</a>
-				<a href="./Merch" class="py-5 px-3 hover:bg-zinc-200 rounded-xl dark:hover:bg-zinc-600">merchandise</a>
-				<a href="./Classes" class="py-5 px-3 hover:bg-zinc-200 rounded-xl dark:hover:bg-zinc-600">classes</a>
-				<a href="#gallery" class="py-5 px-3 hover:bg-zinc-200 rounded-xl dark:hover:bg-zinc-600">gallery</a>
+				<a href="/About-us" class="py-5 pr-3 lg:px-3 hover:bg-zinc-200 dark:hover:bg-zinc-600 rounded-xl ">about</a>
+				<a href="./Merch" class="py-5 pr-3 lg:px-3 hover:bg-zinc-200 rounded-xl dark:hover:bg-zinc-600">merchandise</a>
+				<a href="./Classes" class="py-5 pr-3 lg:px-3 hover:bg-zinc-200 rounded-xl dark:hover:bg-zinc-600">classes</a>
+				<a href="#gallery" class="py-5 pr-3 lg:px-3 hover:bg-zinc-200 rounded-xl dark:hover:bg-zinc-600">gallery</a>
 				<a href="mailto:hello@gwonli.com?subject=A%20message%20from%20the%20website"
 					class=" bg-red-600 text-white w-28 h-11 text-center hover:text-white hover:bg-red-500 py-2 px-1 rounded-xl">contact
 					us</a>
@@ -43,7 +43,17 @@
 
 			<div class="md:hidden flex items-center mr-3">
 				<button class="mobile-menu-button">
-					<span class="material-icons text-3xl">&#xe5d2;</span>
+					<svg class="ham hamRotate ham4" viewBox="0 0 100 100" width="60" onclick="this.classList.toggle('active')">
+						<path
+							  class="line top"
+							  d="m 70,33 h -40 c 0,0 -8.5,-0.149796 -8.5,8.5 0,8.649796 8.5,8.5 8.5,8.5 h 20 v -20" />
+						<path
+							  class="line middle"
+							  d="m 70,50 h -40" />
+						<path
+							  class="line bottom"
+							  d="m 30,67 h 40 c 0,0 8.5,0.149796 8.5,-8.5 0,-8.649796 -8.5,-8.5 -8.5,-8.5 h -20 v 20" />
+					  </svg>
 				</button>
 			</div>
 

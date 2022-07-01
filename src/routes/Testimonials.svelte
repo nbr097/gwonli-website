@@ -1,4 +1,4 @@
-  <section class="mb-20 text-zinc-800 dark:text-white max-w-6xl pt-16 mx-auto">
+  <section class="mb-20 text-zinc-800 dark:text-white max-w-6xl pt-16 p-10 mx-auto">
     <div class="text-center md:max-w-xl lg:max-w-3xl mx-auto">
       <h3 class="text-3xl font-bold mb-6 dark:text-white text-zinc-800 overflow-hidden text-medium uppercase" style="font-family:renfrew;">Testimonials</h3>
       <p class="mb-6 pb-2 md:mb-12 md:pb-0">

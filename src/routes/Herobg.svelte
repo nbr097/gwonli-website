@@ -1,14 +1,17 @@
 <section style="min-height: 50vh;" class="select-none">
 	<div id="carouselExampleCaptions" class="carousel carousel-fade carousel-dark slide relative" data-bs-ride="carousel">
 		<div class="carousel-inner relative w-full overflow-hidden">
-		  <div class="carousel-item active relative float-left w-full">
+		  <div class="carousel-item active relative justify-center items-center float-left w-full overflow-hidden">
 			<img
 			src="https://github.com/nbr097/gwonli/blob/main/images/background/bg1.jpg?raw=true"
-			class="block w-full object-cover max-h-screen min-h-screen"
+			class="block w-full object-cover max-h-screen min-h-screen overflow-hidden"
 			  alt="..."
 			/>
-			<div class="carousel-caption hidden md:block absolute text-center ">
-				<img src="https://github.com/nbr097/gwonli/blob/main/quotes-1.png?raw=true" alt="quotes">
+			<div class="w-full mx-auto inset-0 md:block absolute max-h-screen min-h-screen overflow-hidden">
+				<img src="https://github.com/nbr097/gwonli/blob/main/quotes-1.png?raw=true" alt="quotes"
+				class="invisible w-0 md:visible md:w-full md:mt-72 lg:mt-20">
+				<img src="https://github.com/nbr097/gwonli/blob/main/Untitled-1.png?raw=true" alt="quotes"
+				class="md:hidden">
 			</div>
 		  </div>
 		  <div class="carousel-item relative float-left w-full">
