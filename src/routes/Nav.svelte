@@ -43,16 +43,18 @@
 
 			<div class="md:hidden flex items-center mr-3">
 				<button class="mobile-menu-button">
-					<svg class="ham hamRotate ham4" viewBox="0 0 100 100" width="60" onclick="this.classList.toggle('active')">
+					<svg class="ham hamRotate ham4 text-zinc-800 dark:text-white" viewBox="0 0 100 100" width="60" onclick="this.classList.toggle('active')">
 						<path
-							  class="line top"
+							  class="line top stroke-black dark:stroke-white"
 							  d="m 70,33 h -40 c 0,0 -8.5,-0.149796 -8.5,8.5 0,8.649796 8.5,8.5 8.5,8.5 h 20 v -20" />
 						<path
-							  class="line middle"
-							  d="m 70,50 h -40" />
+							  class="line middle stroke-black dark:stroke-white"
+							  d="m 70,50 h -40"
+							   />
 						<path
-							  class="line bottom"
-							  d="m 30,67 h 40 c 0,0 8.5,0.149796 8.5,-8.5 0,-8.649796 -8.5,-8.5 -8.5,-8.5 h -20 v 20" />
+							  class="line bottom stroke-black dark:stroke-white"
+							  d="m 30,67 h 40 c 0,0 8.5,0.149796 8.5,-8.5 0,-8.649796 -8.5,-8.5 -8.5,-8.5 h -20 v 20"
+							   />
 					  </svg>
 				</button>
 			</div>
