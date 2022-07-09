@@ -11,7 +11,7 @@
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4">
 						Courage, <br />Honour,<br />Respect
 					</div>
-					<div class="box= w-max text-white text-right mx-auto text-lg pt-0 md:pt-0">
+					<div class="box= w-max text-white text-right mx-auto text-lg -mt-10 md:-mt-0 pt-0 md:pt-0">
 						<p class="">
 							Victory comes from finding<br />opportunities in the problem<br />- Sun Tzu
 						</p>
