@@ -86,8 +86,8 @@
                     </div>
                 </div>
                 <form>
-                    <a href="mailto:merch@gwonli.com?subject=Order%20Enquiry%20-%20Gwonli%20Uniform&body=Hi%2C%0D%0A%0D%0AI%20would%20like%20to%20order%20(1)x%20Gwonli%20Uniform(s)%20in%20a%20Small%2FMedium%2FLarge%20size%20for%20STUDENT%20NAME%0D%0A%0D%0AKind%20regards%2C">
-                        <div class="mt-8 w-full bg-red-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">Enquire Now
+                    <a href="https://buy.stripe.com/test_aEUbLxazf3WTdPy5km" target="_blank">
+                        <div class="mt-8 w-full bg-red-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">Buy Now
                     </div></a>
                 </form>
 

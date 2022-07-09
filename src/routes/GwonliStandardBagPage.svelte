@@ -60,19 +60,11 @@
                             <li>Machine wash cold with similar colors</li>
                         </ul>
                     </div>
-                    <div class="mt-8 border-t border-gray-200 pt-8">
-                   
-                        <select>
-                            <option>your</option>
-                            <option>gay</option>
-                            <option>mum</option>
-                        </select>
-                   
-                    </div>
+                    
                 </div>
                 <form>
-                    <a href="mailto:merch@gwonli.com?subject=Order%20Enquiry%20-%20Gwonli%20Standard%20Bag&body=Hi%2C%0D%0A%0D%0AI%20would%20like%20to%20order%20(1)x%20Gwonli%20Standard%20Bag(s)%20for%20STUDENT%20NAME%0D%0A%0D%0AKind%20regards%2C">
-                        <div class="mt-8 w-full bg-red-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">Enquire Now
+                    <a href="https://buy.stripe.com/test_3cs9Dpazf2SPfXG4gh" target="_blank">
+                        <div class="mt-8 w-full bg-red-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">Buy Now
                     </div></a>
                 </form>
 
