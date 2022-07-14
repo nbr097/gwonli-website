@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+	scroll-behavior: smooth;
+	user-select: none;
+	-webkit-user-drag: none;
+}
+
+img {
+	pointer-events: none;
+}
+
+@font-face {
+	font-family: 'renfrew';
+	font-style: normal;
+	font-weight: 400;
+	src: url(/fonts/renfrew.woff2) format('woff2');
+}
+
+.ham {
+	cursor: pointer;
+	-webkit-tap-highlight-color: transparent;
+	transition: transform 400ms;
+	-moz-user-select: none;
+	-webkit-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.hamRotate.active {
+	transform: rotate(45deg);
+}
+
+.hamRotate180.active {
+	transform: rotate(180deg);
+}
+
+.line {
+	fill: none;
+	transition: stroke-dasharray 400ms, stroke-dashoffset 400ms;
+	stroke: black;
+	stroke-width: 5.5;
+	stroke-linecap: round;
+}
+
+.ham4 .top {
+	stroke-dasharray: 40 121;
+}
+
+.ham4 .bottom {
+	stroke-dasharray: 40 121;
+}
+
+.ham4.active .top {
+	stroke-dashoffset: -68px;
+}
+
+.ham4.active .bottom {
+	stroke-dashoffset: -68px;
+}
