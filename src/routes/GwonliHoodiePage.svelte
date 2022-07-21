@@ -1,27 +1,17 @@
 <script>
+    var sliders = document.getElementsByName('slider');
+var linkWrapper = document.getElementById('down_icon2');
 
-    let selected;
+for (var i in sliders){
+	if(sliders[i].addEventListener){
+  	sliders[i].addEventListener('click', function(){
+       linkWrapper.childNodes[0].setAttribute('href', this.getAttribute('data-href'));
+    });
+  }
+}
 
-let products = [
-    {
-        id: 123,
-        name: 'Small',
-        price: 5000
-    },
-    {
-        id: 124,
-        name: 'Medium',
-        price: 6000
-    },
-    {
-        id: 125,
-        name: 'Large',
-        price: 7000
-    }
-]
-$: console.log(selected);
+
 </script>
-
 <div class="bg-white dark:bg-zinc-800 mt-24">
     <main class="mt-8 max-w-2xl mx-auto pb-16 px-4 sm:pb-24 sm:px-6 lg:max-w-7xl lg:px-8">
         <div class="lg:grid lg:grid-cols-12 lg:auto-rows-min lg:gap-x-8">
@@ -102,23 +92,16 @@ $: console.log(selected);
                     </div>
                 
                     <div class="mt-4 prose prose-sm text-gray-500 dark:text-white">
-                        <form>
-                            <label for="variant">Variant</label>
-                            <select name="variant" value={selected}>
-                                {#each products as product}
-                                    <option value={product}>
-                                        {product.name + ' - ' + product.price}
-                                    </option>
-                                {/each}
-                            </select>
-                        </form>
+                        <input type="radio" name="slider" id="slide2" data-href="https://www.google.com">XS
+                        <input type="radio" name="slider" id="slide3" data-href="https://www.nicholasbrown.me"> SM
+                        <input type="radio" name="slider" id="slide4" data-href="xxx3">M
+                        <input type="radio" name="slider" id="slide5" data-href="xxx4">L
+                        <input type="radio" name="slider" id="slide6" data-href="xxx5">XL
+
+                        <div id="down_icon2"><a href=""><div class="mt-8 w-full bg-red-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">Enquire Now
+                        </div></a></div>
                     </div>
                 </div>
-                <form>
-                    <a href="mailto:merch@gwonli.com?subject=Order%20Enquiry%20-%20Gwonli%20Hoodie&body=Hi%2C%0D%0A%0D%0AI%20would%20like%20to%20order%20(1)x%20Gwonli%20Hoodie(s)%20in%20a%20Small%2FMedium%2FLarge%20size%20for%20STUDENT%20NAME%0D%0A%0D%0AKind%20regards%2C">
-                        <div class="mt-8 w-full bg-red-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500">Enquire Now
-                    </div></a>
-                </form>
 
             </div>
         </div>

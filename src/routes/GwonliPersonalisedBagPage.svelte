@@ -36,7 +36,7 @@
 
                     <div class="mt-4 prose prose-sm text-gray-500 dark:text-white">
                         <p>The Official Gwonli Bag is locally made using only the best materials to ensure that our students are able to carry their belongings easily whilst representing Gwonli.</p>
-                        <p>This personlised bag will have the students name embroided on the side of the bag for easy identifcation.</p>
+                        <p>This personalised bag will have the students name embroidered on the side of the bag for easy identification.</p>
                     </div>
                 </div>
                 <div class="mt-8 border-t border-gray-200 pt-8">

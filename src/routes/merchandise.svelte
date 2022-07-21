@@ -1,5 +1,6 @@
 <script>
     import PageHeader from "$lib/PageHeader.svelte";
+    import StoreItems from "$lib/StoreItems.svelte"
 </script>
 
 <PageHeader title="Merch" />
@@ -9,54 +10,24 @@
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
             <h1 class="text-center uppercase font-medium pb-4 text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Bags</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100 dark:bg-zinc-800">
-                        <img src="/images/merch/bags/Bag1.jpg"
-                            alt="bag"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliStandardBagPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Official Gwonli Kit Bag &#40;Plain&#41;
-                            </a>
-                        </h3>
-                        <p>&#36;50</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Standard Gwonli Bag</p>
-                </div>
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/bags/Bag2.jpg"
-                            alt="lorem"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliPersonalisedBagPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Official Gwonli Personlised Bag
-                            </a>
-                        </h3>
-                        <p>&#36;80</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Personlised Embroidery Gwonli Bag</p>
-                </div>
+               
+                <StoreItems
+                name= "Official Gwonli Kit Bag &#40;Plain&#41;"
+                price="50"
+                subtext="Standard Gwonli Bag"
+                pageLink="/GwonliStandardBagPage"
+                imageSrc="/images/merch/bags/Bag1.jpg"
+                />
+
+
+                <StoreItems
+                name= "Official Gwonli Personlised Bag"
+                price="80"
+                subtext="Personlised Embroidered Gwonli Bag"
+                pageLink="/GwonliPersonalisedBagPage"
+                imageSrc="/images/merch/bags/Bag2.jpg"
+                />
+                    
             </div>
         </div>
     </div>
@@ -64,54 +35,24 @@
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
             <h1 class="text-center uppercase font-medium pb-4 text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Uniforms</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/uniform/Uniform1.jpg"
-                            alt="Uniform"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliUniformPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Official Gwonli Uniform <br /> &#40;Pants, Jacket, Belt&#41;
-                            </a>
-                        </h3>
-                        <p>&#36;120</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Full Starter Uniform</p>
-                </div>
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/uniform/KidsPlain.jpg"
-                            alt="kids uniform"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliJnrUniform">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Official Gwonli Jnr.<br />Uniform <br /> &#40;Pants, Jacket, Belt&#41;
-                            </a>
-                        </h3>
-                        <p class="">&#36;25</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Small Uniform &#40;incl. Belt&#41;</p>
-                </div>
+             
+                <StoreItems
+                name= "Official Gwonli Uniform"
+                price="120"
+                subtext="&#40;Pants, Jacket, Belt&#41;"
+                pageLink="/GwonliUniformPage"
+                imageSrc="/images/merch/uniform/Uniform1.jpg"
+                />
+
+                <StoreItems
+                name= "Official Gwonli Jnr. Uniform"
+                price="25"
+                subtext="Small Uniform &#40;incl. Belt&#41;"
+                pageLink="/GwonliJnrUniform"
+                imageSrc="/images/merch/uniform/KidsPlain.jpg"
+                />
+
+
             </div>
         </div>
     </div>
@@ -119,29 +60,14 @@
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
             <h1 class="text-center uppercase font-medium pb-4 text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Signet Rings</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/rings/signet-ring.jpg"
-                            alt="Signet Ring"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Enquire Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliSignetRingPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Official Gwonli Signet Ring
-                            </a>
-                        </h3>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Pricing available on request</p>
-                </div>
+               
+                <StoreItems
+                name= "Official Gwonli Signet Ring"
+                price="N/A"
+                subtext="Pricing available on request"
+                pageLink="/GwonliSignetRingPage"
+                imageSrc="/images/merch/rings/signet-ring.jpg"
+                />
             </div>
         </div>
     </div>
@@ -149,54 +75,22 @@
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
             <h1 class="text-center font-medium pb-4 uppercase text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Belts</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/belts/BeltRack.jpg"
-                            alt="Belt Rack"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/BeltRackPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Gwonli Hanging Belt Rack
-                            </a>
-                        </h3>
-                        <p>&#36;30</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Belt Rack</p>
-                </div>
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/belts/belts.jpg"
-                            alt="lorem"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/BeltPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Replacement Belt
-                            </a>
-                        </h3>
-                        <p>&#36;10</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Additional / Replacement Belt</p>
-                </div>
+                
+                <StoreItems
+                name= "Belt Rack"
+                price="30"
+                subtext="Gwonli Hanging Belt Rack"
+                pageLink="/BeltRackPage"
+                imageSrc="/images/merch/belts/BeltRack.jpg"
+                />
+
+                <StoreItems
+                name= "Replacement Belt"
+                price="10"
+                subtext="Additional / Replacement Belt"
+                pageLink="/BeltPage"
+                imageSrc="/images/merch/belts/belts.jpg"
+                />
             </div>
         </div>
     </div>
@@ -204,150 +98,54 @@
         <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
             <h1 class="text-center font-medium pb-4 uppercase text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Casual Wear</h1>
             <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/hoodie/Hoodie.jpg"
-                            alt="lorem"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliHoodiePage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Gwonli Hoodie
-                            </a>
-                        </h3>
-                        <p>&#36;80</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Black / Red Gwonli Hoodie</p>
-                </div>
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/shirts/T-shirt1.jpg"
-                            alt="lorem"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliShirtPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Gwonli Shirt
-                            </a>
-                        </h3>
-                        <p class="">&#36;35</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Gwonli Crew Neck Shirt</p>
-                </div>
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/tie/mens-tie.jpg"
-                            alt="lorem"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="GwonliTiePage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Gwonli Embroidered Tie
-                            </a>
-                        </h3>
-                        <p class="">&#36;35</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Gwonli Embroidered Tie</p>
-                </div>
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/hats/Cap1.jpg"
-                            alt="lorem"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliCapPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Gwonli Embroidered Cap
-                            </a>
-                        </h3>
-                        <p class="">&#36;30</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">Gwonli Embroidered Adjustable Cap</p>
-                </div>
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/shirts/rash.jpg"
-                            alt="lorem"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliRashPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Gwonli Rank Rash Shirt
-                            </a>
-                        </h3>
-                        <p class="">&#36;50</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">BJJ no-gi Rank Rash Shirt</p>
-                </div>
-                <div class="relative group">
-                    <div class="aspect-w-4 aspect-h-3 rounded-lg overflow-hidden bg-gray-100">
-                        <img src="/images/merch/other/mma-shorts.jpg"
-                            alt="lorem"
-                            class="object-center object-cover">
-                        <div class="flex items-end opacity-0 p-4 group-hover:opacity-100 transition-opacity ease-in-out"
-                            aria-hidden="true">
-                            <div
-                                class="w-full bg-red-600 bg-opacity-100 backdrop-filter backdrop-blur py-2 px-4 rounded-md text-sm font-medium text-white text-center">
-                                Buy Now</div>
-                        </div>
-                    </div>
-                    <div
-                        class="mt-4 flex items-center justify-between text-base font-medium dark:text-white text-zinc-800 space-x-8">
-                        <h3>
-                            <a href="/GwonliMMAShortsPage">
-                                <span aria-hidden="true" class="absolute inset-0"></span>
-                                Gwonli MMA Shorts
-                            </a>
-                        </h3>
-                        <p class="">&#36;50</p>
-                    </div>
-                    <p class="mt-1 text-sm text-gray-500">BJJ no-gi MMA Shorts</p>
-                </div>
+               
+                <StoreItems
+                name= "Gwonli Embroidered Tie"
+                price="80"
+                subtext="Black / Red Gwonli Hoodie"
+                pageLink="/GwonliHoodiePage"
+                imageSrc="/images/merch/hoodie/Hoodie.jpg"
+                />
+
+                <StoreItems
+                name= "Gwonli Shirt"
+                price="35"
+                subtext="Gwonli Crew Neck Shirt"
+                pageLink="/GwonliShirtPage"
+                imageSrc="/images/merch/shirts/T-shirt1.jpg"
+                />
+
+                <StoreItems
+                name= "Gwonli Embroidered Tie"
+                price="35"
+                subtext="Gwonli Embroidered Tie"
+                pageLink="/GwonliTiePage"
+                imageSrc="/images/merch/tie/mens-tie.jpg"
+                />
+                   
+                <StoreItems
+                name= "Gwonli Embroidered Cap"
+                price="30"
+                subtext="Gwonli Embroidered Adjustable Cap"
+                pageLink="/GwonliCapPage"
+                imageSrc="/images/merch/hats/Cap1.jpg"
+                />
+
+                <StoreItems
+                name= "Gwonli Rank Rash Shirt"
+                price="50"
+                subtext="BJJ no-gi Rank Rash Shirt"
+                pageLink="/GwonliRashPage"
+                imageSrc="/images/merch/shirts/rash.jpg"
+                />
+
+                <StoreItems
+                name= "Gwonli MMA Shorts"
+                price="50"
+                subtext="BJJ no-gi MMA Shorts"
+                pageLink="/GwonliMMAShortsPage"
+                imageSrc="/images/merch/other/mma-shorts.jpg"
+                />
             </div>
         </div>
     </div>
