@@ -1,7 +1,7 @@
 <script>
 	import { onMount } from 'svelte';
 	onMount(() => {
-		var sliders = document.getElementsByName('slider');
+		var sliders = document.getElementsByName('bordered-radio');
 		var linkWrapper = document.getElementById('down_icon2');
 
 		for (var i in sliders) {
@@ -113,32 +113,45 @@
 						</ul>
 					</div>
 
-					<div class="mt-4 prose prose-sm text-gray-500 dark:text-white">
-						<input type="radio" name="slider" id="slide2" data-href="https://www.google.com" />XS
-						<input
-							type="radio"
-							name="slider"
-							id="slide3"
-							data-href="https://www.nicholasbrown.me"
-						/>
-						SM
-						<input type="radio" name="slider" id="slide4" data-href="xxx3" />M
-						<input type="radio" name="slider" id="slide5" data-href="xxx4" />L
-						<input type="radio" name="slider" id="slide6" data-href="xxx5" />XL
+					<div class="mt-4 prose prose-sm text-gray-500 dark:text-white grid overflow-hidden grid-cols-2 grid-rows-3 gap-2 grid-flow-row">
+						
+						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
+							<input checked id="slide2" data-href="https://buy.stripe.com/test_7sI02PePv1OL6n6cMT" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+							<label for="slide2" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Extra Small</label>
+						</div>
+						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
+							<input id="slide3" data-href="https://buy.stripe.com/test_14k4j58r79hdfXG9AG" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+							<label for="slide3" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Small</label>
+						</div>
+						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
+							<input checked id="slide4" data-href="https://buy.stripe.com/test_00g2aXePvbpldPy8wB" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+							<label for="slide4" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Medium</label>
+						</div>
+						
+						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
+							<input checked id="slide5" data-href="https://buy.stripe.com/test_4gweXJ4aRfFB8vebIM" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+							<label for="slide5" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Large</label>
+						</div>
+						
+						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
+							<input checked id="slide6" data-href="https://buy.stripe.com/test_bIY8zlbDj0KHh1KeUX" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+							<label for="slide6" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Extra Large</label>
+						</div>
 
+					</div>
 						<div id="down_icon2">
 							<a href=""
 								><div
 									class="mt-8 w-full bg-red-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
 								>
-									Enquire Now
+									Buy Now
 								</div></a
 							>
 						</div>
-					</div>
 				</div>
-			</div>
-		</div>
+				</div>
+				</div>
+				
 
 		<!-- Related products -->
 		<section aria-labelledby="related-heading" class="mt-16 sm:mt-24">
