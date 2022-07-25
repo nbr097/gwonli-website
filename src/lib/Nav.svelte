@@ -11,7 +11,7 @@
 	<div class="w-full max-w-7xl px-4 flex flex-col md:flex-row md:justify-between">
 		<div class="flex justify-between">
 			<div class="flex space-x-4 py-2 mx-0 justify-between">
-				<span class="cursor-pointer text-white flex" style="font-family: Renfrew;">
+				<span class="cursor-pointer text-white flex overflow-hidden" style="font-family: Renfrew;">
 					<a href="/">
 						<img
 							class="h-20 visible dark:hidden object-scale-down"
@@ -25,11 +25,11 @@
 						/>
 					</a>
 				</span>
-				<div>
+				<div class="overflow-hidden">
 					<a href="/" class="flex items-center pt-7 lg:py-5 px-2 text-black hover:text-gray-800">
 						<span
 							style="font-family:'renfrew"
-							class="invisible h-0 lg:h-10 lg:visible lg:text-2xl xl:text-3xl lg:py-1 text-zinc-800 dark:text-white uppercase font-bold"
+							class="invisible h-0 lg:h-10 lg:visible lg:text-2xl xl:text-3xl lg:py-1 text-zinc-800 dark:text-white uppercase font-bold overflow-hidden"
 							>Gwonli Martial Arts</span
 						>
 					</a>

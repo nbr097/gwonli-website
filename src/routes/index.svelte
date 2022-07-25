@@ -109,7 +109,7 @@
 </section>
 <section
 	style="display: flex; align-items: center; min-height: 40vh;"
-	class="mt-24 md:mt-28 lg:mt-8 max-w-7xl pl-8 pr-8 select-none dark:bg-zinc-800 mx-auto"
+	class="mt-24 md:mt-28 lg:mt-8 max-w-7xl pl-8 pr-8 select-none dark:bg-zinc-800 bg-slate-50 mx-auto"
 >
 	<div class="container font-medium pb-8 mx-auto" id="about">
 		<div class="grid overflow-hidden grid-cols-1 lg:grid-cols-6 lg:grid-rows-3 lg:gap-4 mx-auto">
@@ -123,17 +123,17 @@
 				</div>
 			</div>
 			<div class="box row-span-2 col-span-4 text-zinc-800 dark:text-white pt-10 mx-auto">
-				<p class="lg:pl-10">
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur nemo sed alias
-					eveniet fugiat quasi quaerat, beatae corporis quis quisquam obcaecati amet, praesentium
-					blanditiis illum possimus laudantium pariatur a? Maiores tempora ab distinctio!
-					<br /><br />
-					Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa veritatis id animi, suscipit
-					soluta voluptatem in quas velit quis aperiam, sequi repudiandae at, vitae quos!
-				</p>
+					<p class="font-medium text-zinc-800 dark:text-white text-center px-8 lg:pl-10 translate-y-1/2 top-1/2">
+						"My dream is to bring enjoyment and security of mind and body to as many students as possible,
+						through study and walking together along the Martial path. My past 30+ years as a Martial
+						Artist has shown me what works and what doesn’t, and with Gwonli I am free to ensure all those
+						people spat out by the ‘Belt Factory’ organisations can have somewhere where their training is
+						not limited by their personal situation or bank balance. I will help them to ‘get up the right
+						way’"
+					</p>
 			</div>
 			<div class="box col-span-4 mx-auto pt-6">
-				<a href="/About-us">
+				<a href="/about">
 					<button class="text-white w-28 h-12 rounded-lg hover:bg-red-500 bg-red-600 font-bold"
 						>Read More
 					</button>

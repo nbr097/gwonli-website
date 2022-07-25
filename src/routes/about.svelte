@@ -55,7 +55,7 @@
 	</div>
 </div>
 
-<div class=" dark:bg-zinc-800">
+<div class=" dark:bg-zinc-800 bg-slate-50">
 	<div class="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-24">
 		<div class="space-y-12">
 			<div class="space-y-5 sm:space-y-4 md:max-w-xl lg:max-w-3xl xl:max-w-none">
