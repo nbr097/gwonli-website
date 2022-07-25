@@ -123,7 +123,7 @@
 				</div>
 			</div>
 			<div
-				class="box row-span-2 col-span-4 text-zinc-800 dark:text-white pt-10 md:pt-0 md:-mt-12 lg:-mt-0 h-60 mx-auto overflow-hidden translate-y-0 top-0 lg:translate-y-1/2 lg:top-1/2"
+				class="box row-span-2 h-min col-span-4 text-zinc-800 dark:text-white pt-10 md:pt-0 md:-mt-12 lg:-mt-0 mx-auto translate-y-0 top-0 lg:translate-y-1/2 lg:top-1/2"
 			>
 				<p class="font-medium text-zinc-800 dark:text-white text-center px-8 lg:pl-10">
 					"My dream is to bring enjoyment and security of mind and body to as many students as
