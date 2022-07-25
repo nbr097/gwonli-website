@@ -79,7 +79,7 @@
 				<AboutTeamItem
 					name="Tony"
 					role="2nd Dan Master Instructor"
-					subtext="Boom Boom Pow"
+					subtext="Black Belt"
 					imageSrc="/images/team/Tony.jpg"
 				/>
 
