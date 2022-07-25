@@ -59,7 +59,7 @@
 		<!-- svelte-ignore a11y-missing-attribute -->
 		<div class="box md:col-span-2 col-span-2 self-center">
 			<iframe
-				class="rounded-xl justify-center"
+				class="rounded-xl justify-center dark:invert dark:grayscale dark:contrast-75 contrast-100 grayscale-0 invert-0"
 				src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d746.600429034099!2d152.9026210464561!3d-27.11062750731631!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b93f6bf333f0507%3A0x985c49247d7decff!2s133%20Darley%20Rd%2C%20Upper%20Caboolture%20QLD%204510!5e0!3m2!1sen!2sau!4v1655730655700!5m2!1sen!2sau"
 				width="100%"
 				height="325"

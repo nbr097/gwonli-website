@@ -117,30 +117,30 @@
 						
 						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
 							<input checked id="slide2" data-href="https://buy.stripe.com/test_7sI02PePv1OL6n6cMT" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
-							<label for="slide2" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Extra Small</label>
+							<label for="slide2" class="py-4 ml-2 w-full text-sm font-medium text-zinc-800 dark:text-gray-300">Extra Small</label>
 						</div>
 						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
 							<input id="slide3" data-href="https://buy.stripe.com/test_14k4j58r79hdfXG9AG" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
-							<label for="slide3" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Small</label>
+							<label for="slide3" class="py-4 ml-2 w-full text-sm font-medium text-zinc-800 dark:text-gray-300">Small</label>
 						</div>
 						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
 							<input checked id="slide4" data-href="https://buy.stripe.com/test_00g2aXePvbpldPy8wB" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
-							<label for="slide4" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Medium</label>
+							<label for="slide4" class="py-4 ml-2 w-full text-sm font-medium text-zinc-800 dark:text-gray-300">Medium</label>
 						</div>
 						
 						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
 							<input checked id="slide5" data-href="https://buy.stripe.com/test_4gweXJ4aRfFB8vebIM" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
-							<label for="slide5" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Large</label>
+							<label for="slide5" class="py-4 ml-2 w-full text-sm font-medium text-zinc-800 dark:text-gray-300">Large</label>
 						</div>
 						
 						<div class="box items-center h-8 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700">
 							<input checked id="slide6" data-href="https://buy.stripe.com/test_bIY8zlbDj0KHh1KeUX" type="radio" value="" name="bordered-radio" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
-							<label for="slide6" class="py-4 ml-2 w-full text-sm font-medium text-gray-900 dark:text-gray-300">Extra Large</label>
+							<label for="slide6" class="py-4 ml-2 w-full text-sm font-medium text-zinc-800 dark:text-gray-300">Extra Large</label>
 						</div>
 
 					</div>
 						<div id="down_icon2">
-							<a href=""
+							<a target="_blank" href=""
 								><div
 									class="mt-8 w-full bg-red-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
 								>
@@ -153,85 +153,6 @@
 				</div>
 				
 
-		<!-- Related products -->
-		<section aria-labelledby="related-heading" class="mt-16 sm:mt-24">
-			<h2 id="related-heading" class="text-lg font-medium text-zinc-800 dark:text-white">
-				Customers also purchased
-			</h2>
-
-			<div class="mt-6 grid grid-cols-1 gap-y-10 gap-x-6 sm:grid-cols-2 lg:grid-cols-4 xl:gap-x-8">
-				<div class="group relative">
-					<div
-						class="w-full min-h-80 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none"
-					>
-						<img
-							src="/images/merch/uniform/Uniform1.jpg"
-							alt="Front of Gwonli Hoodie"
-							class="w-full h-full object-center object-cover lg:w-full lg:h-full"
-						/>
-					</div>
-					<div class="mt-4 flex justify-between">
-						<div>
-							<h3 class="text-sm text-gray-700 dark:text-white">
-								<a href="/GwonliUniformPage">
-									<span aria-hidden="true" class="absolute inset-0" />
-									Official Gwonli Uniform
-								</a>
-							</h3>
-							<p class="mt-1 text-sm text-gray-500 dark:text-white">Jacket, Pants & Belt</p>
-						</div>
-						<p class="text-sm font-medium text-zinc-800 dark:text-white">$120</p>
-					</div>
-				</div>
-
-				<div class="group relative">
-					<div
-						class="w-full min-h-80 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none"
-					>
-						<img
-							src="/images/merch/shirts/T-shirt1.jpg"
-							alt="Front of Gwonli T-Shit"
-							class="w-full h-full object-center object-cover lg:w-full lg:h-full"
-						/>
-					</div>
-					<div class="mt-4 flex justify-between">
-						<div>
-							<h3 class="text-sm text-gray-700 dark:text-white">
-								<a href="/GwonliShirtPage">
-									<span aria-hidden="true" class="absolute inset-0" />
-									Gwonli T-shirt
-								</a>
-							</h3>
-							<p class="mt-1 text-sm text-gray-500 dark:text-white">Black</p>
-						</div>
-						<p class="text-sm font-medium text-zinc-800 dark:text-white">$35</p>
-					</div>
-				</div>
-
-				<div class="group relative">
-					<div
-						class="w-full min-h-80 aspect-w-1 aspect-h-1 rounded-md overflow-hidden group-hover:opacity-75 lg:h-80 lg:aspect-none"
-					>
-						<img
-							src="/images/merch/bags/Bag2.jpg"
-							alt="Gwonli Standard Bag"
-							class="w-full h-full object-center object-cover lg:w-full lg:h-full"
-						/>
-					</div>
-					<div class="mt-4 flex justify-between">
-						<div>
-							<h3 class="text-sm text-gray-700 dark:text-white">
-								<a href="/GwonliStandardBagPage">
-									<span aria-hidden="true" class="absolute inset-0" />
-									Official Gwonli Bag
-								</a>
-							</h3>
-							<p class="mt-1 text-sm text-gray-500 dark:text-white">Standard Gwonli Bag</p>
-						</div>
-						<p class="text-sm font-medium text-zinc-800 dark:text-white">$50</p>
-					</div>
-				</div>
-			</div>
-		</section>
-	</main>
+	 </main>
 </div>
+
