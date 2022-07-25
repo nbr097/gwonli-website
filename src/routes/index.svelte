@@ -122,15 +122,17 @@
 					/>
 				</div>
 			</div>
-			<div class="box row-span-2 col-span-4 text-zinc-800 dark:text-white pt-10 mx-auto">
-					<p class="font-medium text-zinc-800 dark:text-white text-center px-8 lg:pl-10 translate-y-1/2 top-1/2">
-						"My dream is to bring enjoyment and security of mind and body to as many students as possible,
-						through study and walking together along the Martial path. My past 30+ years as a Martial
-						Artist has shown me what works and what doesn’t, and with Gwonli I am free to ensure all those
-						people spat out by the ‘Belt Factory’ organisations can have somewhere where their training is
-						not limited by their personal situation or bank balance. I will help them to ‘get up the right
-						way’"
-					</p>
+			<div
+				class="box row-span-2 col-span-4 text-zinc-800 dark:text-white pt-10 md:pt-0 md:-mt-12 lg:-mt-0 h-60 mx-auto overflow-hidden translate-y-0 top-0 lg:translate-y-1/2 lg:top-1/2"
+			>
+				<p class="font-medium text-zinc-800 dark:text-white text-center px-8 lg:pl-10">
+					"My dream is to bring enjoyment and security of mind and body to as many students as
+					possible, through study and walking together along the Martial path. My past 30+ years as
+					a Martial Artist has shown me what works and what doesn’t, and with Gwonli I am free to
+					ensure all those people spat out by the ‘Belt Factory’ organisations can have somewhere
+					where their training is not limited by their personal situation or bank balance. I will
+					help them to ‘get up the right way’"
+				</p>
 			</div>
 			<div class="box col-span-4 mx-auto pt-6">
 				<a href="/about">
