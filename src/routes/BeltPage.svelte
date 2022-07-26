@@ -17,8 +17,8 @@
 </script>
 
 <MerchProductPage
-	name="Offical Gwonli Hoodie"
-	price="80.00"
+	name="Offical Gwonli Belt"
+	price="10.00"
 	description="Replacement belt for student or an additional belt for the belt rack."
 	imageSrc="/images/merch/belts/belts2.png"
 	imageSrc2=""
@@ -38,7 +38,6 @@
 	blueBeltBrownUrl="https://buy.stripe.com/test_7sI7vh5eV9hdh1K8wP"
 	brownBeltUrl="https://buy.stripe.com/test_7sI4j5fTz9hddPyfZg"
 	brownBeltBlackUrl="https://buy.stripe.com/test_aEU5n9cHneBxdPy3ct"
-	blackBeltUrl="https://buy.stripe.com/test_bIY8zl8r76518vebIY"
 	includes1="&#8226; 1 x Belt"
 	includes2=""
 	includes3=""

@@ -37,18 +37,19 @@
 			<div class="box overflow-hidden">
 				<div class="pt-20 h-60 md:translate-y-1/2 md:top-1/2 md:pt-0 overflow-hidden">
 					<h1 class="font-medium text-3xl overflow-hidden" style="font-family:renfrew;">
-						Burpengary
+						Nerangba
 					</h1>
 					<br />
 					<p>Tuesday: 5:00pm - 6:00pm</p>
+					<br/>
+					<p>Thursday: 5:00pm - 6:00pm</p>
 				</div>
 			</div>
 
 			<div class="box self-center">
 				<iframe
 					class="rounded-xl justify-center dark:invert dark:grayscale dark:contrast-75 contrast-100 grayscale-0 invert-0"
-					src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14203.440929626824!2d152.99247079066163!3d-27.129211917646934!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b93f19286d911f5%3A0x698fa2b3d4c7f467!2sReflections%20Park!5e0!3m2!1sen!2sau!4v1658752266915!5m2!1sen!2sau"
-					width="100%"
+					src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14194.001156509888!2d152.9629093!3d-27.2034384!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x15cb7064e6c1f9ed!2sNarangba%20Community%20Centre!5e0!3m2!1sen!2sau!4v1658807509310!5m2!1sen!2sau" width="100%"
 					height="325"
 					title="burpengary map"
 					style="border:0;"

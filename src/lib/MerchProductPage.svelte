@@ -373,23 +373,7 @@
 								>
 							</div>
 
-							<div
-								class="box items-center h-10 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700 {colours}"
-							>
-								<input
-									id="slide17"
-									data-href={blackBeltUrl}
-									type="radio"
-									value=""
-									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
-								/>
-								<label
-									for="slide17"
-									class="py-4 ml-2 leading-9 w-full text-sm font-medium text-zinc-800 dark:text-gray-300"
-									>Black Belt</label
-								>
-							</div>
+							
 						</div>
 
 						<div class="flex sm:flex-col1 {SizeColourButton}" id="down_icon2">

@@ -19,6 +19,7 @@
 					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 md:gap-0 grid-flow-row h-mi w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
 				>
 					<div
+					style="font-family: renfrew;"
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
 						Courage, <br />Honour,<br />Respect
@@ -48,6 +49,7 @@
 					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 grid-flow-row h-max w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
 				>
 					<div
+					style="font-family: renfrew;"
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
 						Fall Down<br />7 times,<br />Get up 8
@@ -72,6 +74,7 @@
 					class="grid grid-cols-1 grid-rows-2 md:grid-cols-3 md:grid-rows-1 gap-0 grid-flow-row h-max w-max absolute text-white items-center m-auto left-0 right-0 top-0 bottom-0 overflow-hidden"
 				>
 					<div
+						style="font-family: renfrew;"
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-7xl md:text-9xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
 						Be the<br />best you<br />can be

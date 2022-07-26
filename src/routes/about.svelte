@@ -14,12 +14,12 @@
 					<img
 						class="object-cover shadow-lg rounded-lg"
 						src="/images/team/Pete.jpg"
-						alt="Pete / Founder"
+						alt="Peter / Founder"
 					/>
 				</div>
 				<div class="space-y-2">
 					<div class="text-lg leading-6 font-medium space-y-1">
-						<h3 class="text-zinc-800 dark:text-white">Master Pete</h3>
+						<h3 class="text-zinc-800 dark:text-white">Master Peter</h3>
 						<p class="text-red-600">Owner / Founder</p>
 						<p class="font-normal italic text-zinc-800 dark:text-white">
 							6th Dan Master Instructor
@@ -42,7 +42,7 @@
 	</div>
 	<div class="box col-span-2">
 		<h1 class="text-4xl  text-red-600 pt-16 p-8 text-center" style="font-family:renfrew;">
-			A message from Master Pete
+			A message from Master Peter
 		</h1>
 		<p class="font-medium text-zinc-800 dark:text-white text-center px-8">
 			"My dream is to bring enjoyment and security of mind and body to as many students as possible,
@@ -78,14 +78,14 @@
 
 				<AboutTeamItem
 					name="Tony"
-					role="2nd Dan Master Instructor"
-					subtext="Black Belt"
+					role="3rd Dan Senior Instructor"
+					subtext="Kyo Sah Nim"
 					imageSrc="/images/team/Tony.jpg"
 				/>
 
 				<AboutTeamItem
 					name="Tim"
-					role="Assistant Instructor"
+					role="Instructor"
 					subtext="Kyo Bu Nim"
 					imageSrc="/images/team/Tim.jpg"
 				/>
@@ -93,7 +93,13 @@
 				<AboutTeamItem
 					name="Michael"
 					role="Junior Instructor"
-					subtext="Cho Poom Bo"
+					subtext="Cho Dan Bo"
+					imageSrc="/images/team/Michael.jpg"
+				/>
+				<AboutTeamItem
+					name="Luke"
+					role="Trainee Instructor"
+					subtext=""
 					imageSrc="/images/team/Michael.jpg"
 				/>
 			</ul>

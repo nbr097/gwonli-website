@@ -21,7 +21,7 @@
 	price="Available on Request"
 	description="The Official Gwonli Signet Ring is custom made with some of the finest gold available
     in Australia. The signet ring is a beautiful piece of jewellery to show off all of
-    your hardwork, patience and dedication."
+    your hardwork, patience and dedication. Only available for Gwonli Black Belt Holders."
 	imageSrc="/images/merch/rings/signet-ring.jpg"
 	imageSrc2=""
 	SizeOrColour=""
