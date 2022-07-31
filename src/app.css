@@ -60,3 +60,23 @@ img {
 .ham4.active .bottom {
 	stroke-dashoffset: -68px;
 }
+
+.table {
+	@apply bg-white text-gray-900 table-auto border-collapse w-full shadow-md;
+}
+
+.table th {
+	@apply bg-red-600 text-white p-1;
+}
+
+.table tr:nth-child(odd) {
+	@apply bg-white text-black;
+}
+
+.table tr:nth-child(even) {
+	@apply bg-gray-200 text-black bg-opacity-70;
+}
+
+.table td {
+	@apply p-1;
+}
