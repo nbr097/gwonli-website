@@ -32,7 +32,7 @@
 	smallUrl="https://buy.stripe.com/test_14k16Tazf7957rabJn"
 	mediumUrl="https://buy.stripe.com/test_5kA7vh22J9hddPy4gU"
 	largeUrl="https://buy.stripe.com/test_5kA6rdcHnalh7raeVx"
-	xlargeUrl="https://buy.stripe.com/test_eVacPBbDjdxtfXG8x8"
+	xlargeUrl="https://buy.stripe.com/7sIfZU3tD1ou10IfYY"
 	includes1="&#8226; 1 x Offical Gwonli MMA Shorts"
 	includes2=""
 	includes3=""

@@ -20,7 +20,6 @@
 	export let blueBeltBrownUrl;
 	export let brownBeltUrl;
 	export let brownBeltBlackUrl;
-	export let blackBeltUrl;
 	export let NoSizeLink;
 	export let NoSizeLinkButton;
 	export let SizeColourButton;
@@ -377,6 +376,7 @@
 						</div>
 
 						<div class="flex sm:flex-col1 {SizeColourButton}" id="down_icon2">
+							<!-- svelte-ignore a11y-invalid-attribute -->
 							<a href="" class="w-full" target="_blank"
 								><div
 									class="mt-8 bg-red-600 border border-transparent rounded-md py-3 px-8 flex items-center justify-center text-base font-medium text-white hover:bg-red-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-red-500"
@@ -406,7 +406,7 @@
 								What's Included:
 							</h3>
 							<div class="pb-6 prose prose-sm" id="disclosure-1">
-								<ul role="list" class="dark:text-white text-zinc-800">
+								<ul  class="dark:text-white text-zinc-800">
 									{includes1} <br />
 									{includes2} <br />
 									{includes3}
@@ -418,7 +418,7 @@
 								Fabric & Care:
 							</h3>
 							<div class="pb-6 prose prose-sm" id="disclosure-1">
-								<ul role="list" class="dark:text-white text-zinc-800">
+								<ul  class="dark:text-white text-zinc-800">
 									<li>&#8226; Only the best materials used</li>
 									<li>&#8226; Cold wash only with similar colours &#40;if applicable&#41;</li>
 								</ul>

@@ -51,8 +51,64 @@
                 pageLink="/GwonliJnrUniform"
                 imageSrc="/images/merch/uniform/KidsPlain.jpg"
                 />
+                <StoreItems
+                name= "Replacement Belt"
+                price="10"
+                subtext="Additional / Replacement Belt"
+                pageLink="/BeltPage"
+                imageSrc="/images/merch/belts/belts.jpg"
+                />
 
-
+            </div>
+        </div>
+    </div>
+    <div class="bg-gray-100 dark:bg-zinc-800 lg:-mt-40" id="MMA">
+        <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
+            <h1 class="text-center font-medium pb-4 uppercase text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">MMA</h1>
+            <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
+                
+                <StoreItems
+                name= "Belt Rack"
+                price="30"
+                subtext="Gwonli Hanging Belt Rack"
+                pageLink="/BeltRackPage"
+                imageSrc="/images/merch/belts/BeltRack.jpg"
+                />
+                <StoreItems
+                name= "Belt Rack"
+                price="30"
+                subtext="Gwonli Hanging Belt Rack"
+                pageLink="/BeltRackPage"
+                imageSrc="/images/merch/belts/BeltRack.jpg"
+                />
+                <StoreItems
+                name= "Belt Rack"
+                price="30"
+                subtext="Gwonli Hanging Belt Rack"
+                pageLink="/BeltRackPage"
+                imageSrc="/images/merch/belts/BeltRack.jpg"
+                />
+                <StoreItems
+                name= "Belt Rack"
+                price="30"
+                subtext="Gwonli Hanging Belt Rack"
+                pageLink="/BeltRackPage"
+                imageSrc="/images/merch/belts/BeltRack.jpg"
+                />
+                <StoreItems
+                name= "Belt Rack"
+                price="30"
+                subtext="Gwonli Hanging Belt Rack"
+                pageLink="/BeltRackPage"
+                imageSrc="/images/merch/belts/BeltRack.jpg"
+                />
+                <StoreItems
+                name= "Belt Rack"
+                price="30"
+                subtext="Gwonli Hanging Belt Rack"
+                pageLink="/BeltRackPage"
+                imageSrc="/images/merch/belts/BeltRack.jpg"
+                />
             </div>
         </div>
     </div>
@@ -67,29 +123,6 @@
                 subtext="Pricing available on request"
                 pageLink="/GwonliSignetRingPage"
                 imageSrc="/images/merch/rings/signet-ring.jpg"
-                />
-            </div>
-        </div>
-    </div>
-    <div class="bg-gray-100 dark:bg-zinc-800 lg:-mt-40" id="belts">
-        <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
-            <h1 class="text-center font-medium pb-4 uppercase text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Belts</h1>
-            <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
-                
-                <StoreItems
-                name= "Belt Rack"
-                price="30"
-                subtext="Gwonli Hanging Belt Rack"
-                pageLink="/BeltRackPage"
-                imageSrc="/images/merch/belts/BeltRack.jpg"
-                />
-
-                <StoreItems
-                name= "Replacement Belt"
-                price="10"
-                subtext="Additional / Replacement Belt"
-                pageLink="/BeltPage"
-                imageSrc="/images/merch/belts/belts.jpg"
                 />
             </div>
         </div>
@@ -145,6 +178,21 @@
                 subtext="BJJ no-gi MMA Shorts"
                 pageLink="/GwonliMMAShortsPage"
                 imageSrc="/images/merch/other/mma-shorts.jpg"
+                />
+            </div>
+        </div>
+    </div>
+    <div class="bg-gray-100 dark:bg-zinc-800 lg:-mt-40" id="misc">
+        <div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
+            <h1 class="text-center font-medium pb-4 uppercase text-3xl dark:text-white text-zinc-800" style="font-family:renfrew;">Misc.</h1>
+            <div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
+                
+                <StoreItems
+                name= "Belt Rack"
+                price="30"
+                subtext="Gwonli Hanging Belt Rack"
+                pageLink="/BeltRackPage"
+                imageSrc="/images/merch/belts/BeltRack.jpg"
                 />
             </div>
         </div>
