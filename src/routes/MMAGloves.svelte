@@ -17,10 +17,10 @@
 </script>
 
 <MerchProductPage
-	name="MMA Hybrid Gloves"
-	price="80.00"
-	description="The open-palm design and extra padding make it perfect for use in MMA to combine striking and grappling. The pre-curved EVA foam for the fist, wrist foam and 7cm extra thick wrist straps, all combine to ensure your hand will ball in the correct position for maximum shock absorption and safety, while having the flexibility to transition quickly through movements."
-	imageSrc="/images/merch/MMA/gloves/HybridGloves.jpg"
+	name="UFC 5 oz MMA Gloves"
+	price="70.00"
+	description="Comfort-fit grappling glove ideal for training. Pre-curved, anatomically correct impact-dispersing soft foam layered over knuckles enhances protection during intense training sessions. Maintain control and range of motion with open-finger design and soft flexible synthetic leather. Adjustable, secure wrap-around hook & loop closure supports wrist ."
+	imageSrc="/images/merch/MMA/gloves/MMAGloves.jpg"
 	imageSrc2=""
 	SizeOrColour=""
 	sizes="hidden"
@@ -28,10 +28,10 @@
 	NoSizeLinkButton=""
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
-	NoSizeLink="https://buy.stripe.com/test_eVa3f19vbgJF7ra4gL"
+	NoSizeLink="https://buy.stripe.com/"
 	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Pair of 7 oz MMA Hybrid Gloves"
+	includes1="&#8226; 1 x Pair of UFC 5 oz Gloves"
 	includes2=""
 	includes3=""
-	FabCare=""
+	FabCare="hidden"
 />

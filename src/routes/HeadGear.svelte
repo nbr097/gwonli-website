@@ -17,11 +17,11 @@
 </script>
 
 <MerchProductPage
-	name="MMA Hybrid Gloves"
-	price="80.00"
-	description="The open-palm design and extra padding make it perfect for use in MMA to combine striking and grappling. The pre-curved EVA foam for the fist, wrist foam and 7cm extra thick wrist straps, all combine to ensure your hand will ball in the correct position for maximum shock absorption and safety, while having the flexibility to transition quickly through movements."
-	imageSrc="/images/merch/MMA/gloves/HybridGloves.jpg"
-	imageSrc2=""
+	name="Boxing / MMA Headgear"
+	price="120.00"
+	description="This headgear is designed to protext the student's nose & jaw while training / sparring with the added protection from the premium face-saver bar inside. The head piece features a lace top, hook and loop back aswell as a hook and loop chin adjustable sections."
+	imageSrc="/images/merch/MMA/headgear/front.jpg"
+	imageSrc2="/images/merch/MMA/headgear/side-rear.jpg"
 	SizeOrColour=""
 	sizes="hidden"
 	colours="hidden"
@@ -29,8 +29,8 @@
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
 	NoSizeLink="https://buy.stripe.com/test_eVa3f19vbgJF7ra4gL"
-	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Pair of 7 oz MMA Hybrid Gloves"
+	hideSecondImage=""
+	includes1="&#8226; 1 x Headgear piece"
 	includes2=""
 	includes3=""
 	FabCare=""

@@ -17,10 +17,10 @@
 </script>
 
 <MerchProductPage
-	name="MMA Hybrid Gloves"
-	price="80.00"
-	description="The open-palm design and extra padding make it perfect for use in MMA to combine striking and grappling. The pre-curved EVA foam for the fist, wrist foam and 7cm extra thick wrist straps, all combine to ensure your hand will ball in the correct position for maximum shock absorption and safety, while having the flexibility to transition quickly through movements."
-	imageSrc="/images/merch/MMA/gloves/HybridGloves.jpg"
+	name="SMAI Soft Shin Instep"
+	price="15.00"
+	description="The SMAI Shin Instep Guard has an elastic design to provide lightweight, padded shin and foot protection. The guard is made in a sock style for easy use and easy wash. Please note that the guard can stretch to twice its size."
+	imageSrc="/images/merch/MMA/legs/SoftShinPads.jpg"
 	imageSrc2=""
 	SizeOrColour=""
 	sizes="hidden"
@@ -28,9 +28,9 @@
 	NoSizeLinkButton=""
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
-	NoSizeLink="https://buy.stripe.com/test_eVa3f19vbgJF7ra4gL"
+	NoSizeLink="https://buy.stripe.com/"
 	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Pair of 7 oz MMA Hybrid Gloves"
+	includes1="&#8226; 1 x Pair of SMAI Soft Shin Instep Guards"
 	includes2=""
 	includes3=""
 	FabCare=""

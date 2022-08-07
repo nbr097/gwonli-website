@@ -110,7 +110,7 @@
 				<div class="mt-6">
 					<h3 class="sr-only">Description</h3>
 
-					<div class="text-base text-zinc-800 dark:text-white space-y-6">
+					<div class="text-base text-zinc-800 dark:text-white space-y-6 text-justify">
 						<p>{description}</p>
 					</div>
 				</div>

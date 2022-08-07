@@ -17,10 +17,10 @@
 </script>
 
 <MerchProductPage
-	name="MMA Hybrid Gloves"
-	price="80.00"
-	description="The open-palm design and extra padding make it perfect for use in MMA to combine striking and grappling. The pre-curved EVA foam for the fist, wrist foam and 7cm extra thick wrist straps, all combine to ensure your hand will ball in the correct position for maximum shock absorption and safety, while having the flexibility to transition quickly through movements."
-	imageSrc="/images/merch/MMA/gloves/HybridGloves.jpg"
+	name="Harbinger Wrist Straps"
+	price="20.00"
+	description="The distinctive Red Line Wrist Wraps are constructed with competition grade elastic for maximum wrist stability. Wrist wraps also help minimize wrist fatigue during training. Harbinger Red Line Wrist Wraps feature an extended 18-inch length for strong support, while the thumb loop secures the wrist wrap on the hand and a fully-adjustable closure provides a full range of tensioning."
+	imageSrc="/images/merch/MMA/gloves/WristStraps.jpg"
 	imageSrc2=""
 	SizeOrColour=""
 	sizes="hidden"
@@ -30,7 +30,7 @@
 	SizeColourButton="hidden"
 	NoSizeLink="https://buy.stripe.com/test_eVa3f19vbgJF7ra4gL"
 	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Pair of 7 oz MMA Hybrid Gloves"
+	includes1="&#8226; 1 x Pair of Harbinger Wrist Straps   "
 	includes2=""
 	includes3=""
 	FabCare=""

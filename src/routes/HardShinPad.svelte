@@ -17,10 +17,13 @@
 </script>
 
 <MerchProductPage
-	name="MMA Hybrid Gloves"
-	price="80.00"
-	description="The open-palm design and extra padding make it perfect for use in MMA to combine striking and grappling. The pre-curved EVA foam for the fist, wrist foam and 7cm extra thick wrist straps, all combine to ensure your hand will ball in the correct position for maximum shock absorption and safety, while having the flexibility to transition quickly through movements."
-	imageSrc="/images/merch/MMA/gloves/HybridGloves.jpg"
+	name="PUNCH Shin Guards"
+	price="130.00"
+	description="These Shin Pads are designed for Muay Thai / Kickboxing / MMA & Combat Sports training and sparring. 
+    With an extremely comfortable fit and Dual Velcro Pull Backstraps, these Muay thai shin guards are built to last for years of intense training.
+    The guards are light and won’t affect your kickboxing technique during training.
+    With a plush lining, these shin pads will keep you cool during training."
+	imageSrc="/images/merch/MMA/legs/HardShinPads.jpg"
 	imageSrc2=""
 	SizeOrColour=""
 	sizes="hidden"
@@ -28,10 +31,10 @@
 	NoSizeLinkButton=""
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
-	NoSizeLink="https://buy.stripe.com/test_eVa3f19vbgJF7ra4gL"
+	NoSizeLink="https://buy.stripe.com/"
 	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Pair of 7 oz MMA Hybrid Gloves"
+	includes1="&#8226; 1 x Pair of PUNCH Hard Shin Guards"
 	includes2=""
 	includes3=""
-	FabCare=""
+	FabCare="hidden"
 />

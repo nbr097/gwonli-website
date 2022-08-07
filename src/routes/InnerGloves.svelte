@@ -17,10 +17,10 @@
 </script>
 
 <MerchProductPage
-	name="MMA Hybrid Gloves"
-	price="80.00"
-	description="The open-palm design and extra padding make it perfect for use in MMA to combine striking and grappling. The pre-curved EVA foam for the fist, wrist foam and 7cm extra thick wrist straps, all combine to ensure your hand will ball in the correct position for maximum shock absorption and safety, while having the flexibility to transition quickly through movements."
-	imageSrc="/images/merch/MMA/gloves/HybridGloves.jpg"
+	name="Morgan Gel Shock Easy Wraps"
+	price="40.00"
+	description="These wraps are designed to be worn with or with external boxing or MMA gloves. The gel-shock gel equilibrium sheets over a thin slab of highly compressed EVA padding forms a wall of shock-absorbency in an ergonomic product to protect your knuckles. They also feature air-cooling mesh panels to help keep hands dry and they also have a double hook and loop wrist support."
+	imageSrc="/images/merch/MMA/gloves/InnerGloves.jpg"
 	imageSrc2=""
 	SizeOrColour=""
 	sizes="hidden"
@@ -28,10 +28,10 @@
 	NoSizeLinkButton=""
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
-	NoSizeLink="https://buy.stripe.com/test_eVa3f19vbgJF7ra4gL"
+	NoSizeLink="https://buy.stripe.com/"
 	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Pair of 7 oz MMA Hybrid Gloves"
+	includes1="&#8226; 1 x Pair of Morgan Easy Wrap Gloves"
 	includes2=""
 	includes3=""
-	FabCare=""
+	FabCare="hidden"
 />
