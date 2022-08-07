@@ -1,9 +1,3 @@
-<!--
-	export let XSUrl;
-	export let MUrl;
-	export let LUrl;
-	export let XlUrl;
--->
 <script>
 	export let name;
 	export let price;
@@ -23,6 +17,12 @@
 	export let C1Url;
 	export let C2Url;
 	export let C3Url;
+	export let SMLButtons;
+	export let XSUrl;
+	export let SUrl;
+	export let MUrl;
+	export let LUrl;
+	export let XLUrl;
 	export let AdultSizeButtons;
 	export let KidSizeButtons;
 	export let whiteBeltUrl;
@@ -94,7 +94,7 @@
 			<!-- Product info -->
 			<div class="mt-10 px-4 sm:px-0 sm:mt-16 lg:mt-0">
 				<h1
-					class="text-3xl uppercase tracking-tig overflow-hidden text-zinc-800 dark:text-white"
+					class="text-3xl uppercas tracking-tig overflow-hidden text-zinc-800 dark:text-white"
 					style="font-family:renfrew;"
 				>
 					{name}
@@ -119,7 +119,97 @@
 					<!-- Colours / Size -->
 					<div>
 						<h3 class="text-lg font-bold text-zinc-800 dark:text-gray-300">{SizeOrColour}</h3>
+						<div
+							class="mt-4  text-gray-500 dark:text-white grid overflow-hidden grid-cols-2 grid-rows-3 gap-2 grid-flow-row {SMLButtons}"
+						>
+							<div
+								class="box items-center h-10 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700 {sizes}"
+							>
+								<input
+									id="slide2"
+									data-href={XSUrl}
+									type="radio"
+									value=""
+									name="bordered-radio"
+									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+								/>
+								<label
+									for="slide2"
+									class="py-4 ml-2 text-sm leading-9 font-medium text-zinc-800 dark:text-gray-300"
+									>Extra Small</label
+								>
+							</div>
+							<div
+								class="box items-center h-10 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700 {sizes}"
+							>
+								<input
+									id="slide3"
+									data-href={SUrl}
+									type="radio"
+									value=""
+									name="bordered-radio"
+									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+								/>
+								<label
+									for="slide3"
+									class="py-4 ml-2 w-full leading-9 text-sm font-medium text-zinc-800 dark:text-gray-300"
+									>Small</label
+								>
+							</div>
+							<div
+								class="box items-center h-10 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700 {sizes}"
+							>
+								<input
+									id="slide4"
+									data-href={MUrl}
+									type="radio"
+									value=""
+									name="bordered-radio"
+									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+								/>
+								<label
+									for="slide4"
+									class="py-4 ml-2 w-full text-sm leading-9 font-medium text-zinc-800 dark:text-gray-300"
+									>Medium</label
+								>
+							</div>
 
+							<div
+								class="box items-center h-10 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700 {sizes}"
+							>
+								<input
+									id="slide5"
+									data-href={LUrl}
+									type="radio"
+									value=""
+									name="bordered-radio"
+									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+								/>
+								<label
+									for="slide5"
+									class="py-4 ml-2 w-full leading-9 text-sm font-medium text-zinc-800 dark:text-gray-300"
+									>Large</label
+								>
+							</div>
+
+							<div
+								class="box items-center h-10 overflow-hidden pl-4 rounded border border-gray-200 dark:border-gray-700 {sizes}"
+							>
+								<input
+									id="slide6"
+									data-href={XLUrl}
+									type="radio"
+									value=""
+									name="bordered-radio"
+									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+								/>
+								<label
+									for="slide6"
+									class="py-4 ml-2 w-full leading-9 text-sm font-medium text-zinc-800 dark:text-gray-300"
+									>Extra Large</label
+								>
+							</div>
+						</div>
 						<div
 							class="mt-4  text-gray-500 dark:text-white grid overflow-hidden grid-cols-2 grid-rows-3 gap-2 grid-flow-row  {AdultSizeButtons}"
 						>

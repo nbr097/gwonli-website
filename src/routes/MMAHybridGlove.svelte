@@ -28,7 +28,7 @@
 	NoSizeLinkButton=""
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
-	NoSizeLink="https://buy.stripe.com/test_eVa3f19vbgJF7ra4gL"
+	NoSizeLink="https://buy.stripe.com/5kA7toaW5ebg8ta28G"
 	hideSecondImage="hidden"
 	includes1="&#8226; 1 x Pair of 7 oz MMA Hybrid Gloves"
 	includes2=""

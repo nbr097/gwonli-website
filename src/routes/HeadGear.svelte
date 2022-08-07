@@ -19,7 +19,7 @@
 <MerchProductPage
 	name="Boxing / MMA Headgear"
 	price="120.00"
-	description="This headgear is designed to protext the student's nose & jaw while training / sparring with the added protection from the premium face-saver bar inside. The head piece features a lace top, hook and loop back aswell as a hook and loop chin adjustable sections."
+	description="This headgear is designed to protect the student's nose & jaw while training / sparring with the added protection from the premium face-saver bar inside. The head piece features a lace top, hook and loop back as well as a hook and loop chin adjustable sections."
 	imageSrc="/images/merch/MMA/headgear/front.jpg"
 	imageSrc2="/images/merch/MMA/headgear/side-rear.jpg"
 	SizeOrColour=""
@@ -28,7 +28,7 @@
 	NoSizeLinkButton=""
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
-	NoSizeLink="https://buy.stripe.com/test_eVa3f19vbgJF7ra4gL"
+	NoSizeLink="https://buy.stripe.com/3cs1508NX0kq24McNg"
 	hideSecondImage=""
 	includes1="&#8226; 1 x Headgear piece"
 	includes2=""

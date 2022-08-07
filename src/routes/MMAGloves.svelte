@@ -28,7 +28,7 @@
 	NoSizeLinkButton=""
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
-	NoSizeLink="https://buy.stripe.com/"
+	NoSizeLink="https://buy.stripe.com/6oE3d83tD9V038QfZv"
 	hideSecondImage="hidden"
 	includes1="&#8226; 1 x Pair of UFC 5 oz Gloves"
 	includes2=""

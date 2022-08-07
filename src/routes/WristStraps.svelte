@@ -28,7 +28,7 @@
 	NoSizeLinkButton=""
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
-	NoSizeLink="https://buy.stripe.com/test_eVa3f19vbgJF7ra4gL"
+	NoSizeLink="https://buy.stripe.com/14kcNId4d9V05gY8x6"
 	hideSecondImage="hidden"
 	includes1="&#8226; 1 x Pair of Harbinger Wrist Straps   "
 	includes2=""

@@ -111,18 +111,18 @@
 					imageSrc="/images/merch/MMA/gloves/HybridGloves.jpg"
 				/>
 				<StoreItems
-					name="Protective Groin Guard"
-					price="20"
-					subtext="Protective Groin Guard with Cup"
-					pageLink="/ProtectiveCup"
-					imageSrc="/images/merch/MMA/ProtectiveCup.jpg"
-				/>
-				<StoreItems
 					name="Harbinger Wrist Straps"
 					price="20"
 					subtext="Protective Wrist Straps"
 					pageLink="/WristStraps"
 					imageSrc="/images/merch/MMA/gloves/WristStraps.jpg"
+				/>
+				<StoreItems
+					name="Protective Groin Guard"
+					price="20"
+					subtext="Protective Groin Guard with Cup"
+					pageLink="/ProtectiveCup"
+					imageSrc="/images/merch/MMA/ProtectiveCup.jpg"
 				/>
 				<StoreItems
 					name="Gwonli MMA Shorts"

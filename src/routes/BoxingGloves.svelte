@@ -28,7 +28,7 @@
 	NoSizeLinkButton=""
 	SizeGuideButton="hidden"
 	SizeColourButton="hidden"
-	NoSizeLink="https://buy.stripe.com/"
+	NoSizeLink="https://buy.stripe.com/bIYbJE5BLebg6l200v"
 	hideSecondImage="hidden"
 	includes1="&#8226; 1 x Pair of PUNCH 16 oz Boxing Gloves"
 	includes2=""
