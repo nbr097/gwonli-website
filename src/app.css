@@ -12,6 +12,10 @@ img {
 	pointer-events: none;
 }
 
+p {
+	overflow: hidden;
+}
+
 @font-face {
 	font-family: 'renfrew';
 	font-style: normal;
