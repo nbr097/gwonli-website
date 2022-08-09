@@ -17,7 +17,7 @@
 </script>
 
 <MerchProductPage
-	name="Offical Gwonli Signet Ring"
+	name="Official Gwonli Signet Ring"
 	price="Available on Request"
 	description="The Official Gwonli Signet Ring is custom made with some of the finest gold available
     in Australia. The signet ring is a beautiful piece of jewellery to show off all of
@@ -32,7 +32,7 @@
 	SizeColourButton="hidden"
 	NoSizeLink="mailto:hello@gwonli.com.au?subject=Enquire%20-%20Signet%20Ring&body=Hi%2C%0D%0A%0D%0AI%20would%20like%20to%20enquire%20about%20the%20Custom%20made%20Gwonli%20Signet%20Ring.%0D%0A%0D%0AKind%20regards%2C%0D%0A%0D%0A"
 	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Offical Custom Gwonli Signet Ring"
+	includes1="&#8226; 1 x Official Custom Gwonli Signet Ring"
 	includes2=""
 	includes3=""
 	FabCare="hidden"

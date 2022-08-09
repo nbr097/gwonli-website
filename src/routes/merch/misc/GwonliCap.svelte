@@ -35,7 +35,7 @@
 	KidSizeButtons=""
 	NoSizeLink="https://buy.stripe.com/eVaaFA1lvebgcJqbIT"
 	hideSecondImage=""
-	includes1="&#8226; 1 x Offical Gwonli Cap"
+	includes1="&#8226; 1 x Official Gwonli Cap"
 	includes2=""
 	includes3=""
 	FabCare=""

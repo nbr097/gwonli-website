@@ -31,7 +31,7 @@
 	SizeColourButton="hidden"
 	NoSizeLink="https://buy.stripe.com/test_6oE4j5azf3WTbHq6oS"
 	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Offical Gwonli Tie"
+	includes1="&#8226; 1 x Official Gwonli Tie"
 	includes2=""
 	includes3=""
 	FabCare=""

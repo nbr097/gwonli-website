@@ -17,7 +17,7 @@
 </script>
 
 <MerchProductPage
-	name="Offical Gwonli Jnr. Uniform"
+	name="Official Gwonli Jnr. Uniform"
 	price="25.00"
 	description="The Official Gwonli Jnr. Uniform is locally made using only the best materials to ensure they can cope with the rigorous exercises our students are put through while learning martial arts."
 	imageSrc="/images/merch/uniform/KidsPlain.jpg"

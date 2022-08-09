@@ -17,7 +17,7 @@
 </script>
 
 <MerchProductPage
-	name="Offical Gwonli Personalised Bag"
+	name="Official Gwonli Personalised Bag"
 	price="80.00"
 	description="The Official Gwonli Bag is locally made using only the best materials to ensure that
     our students are able to carry their belongings easily whilst representing Gwonli. This personalised bag will have the students name embroidered on the side of the bag
@@ -32,7 +32,7 @@
 	SizeColourButton="hidden"
 	NoSizeLink="https://buy.stripe.com/6oE294e8haZ45gYdR3"
 	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Offical Gwonli Personalised Bag"
+	includes1="&#8226; 1 x Official Gwonli Personalised Bag"
 	includes2=""
 	includes3=""
 	FabCare=""

@@ -17,10 +17,10 @@
 </script>
 
 <MerchProductPage
-	name="Offical Gwonli Shirt"
+	name="Official Gwonli Shirt"
 	price="35.00"
 	description="The Official Gwonli shirt is locally made using only the best materials to ensure
-that our students remain warm and comformtable whenever they feel like representing."
+that our students remain warm and comfortable whenever they feel like representing."
 	imageSrc="/images/merch/shirts/T-shirt1.jpg"
 	imageSrc2="/images/merch/shirts/T-shirt2.jpg"
 	hideSecondImage=""
@@ -37,7 +37,7 @@ that our students remain warm and comformtable whenever they feel like represent
 	mediumUrl="https://buy.stripe.com/test_dR6eXJazf6518vecNd"
 	largeUrl="https://buy.stripe.com/test_dR69Dp4aRfFBdPy5kK"
 	xlargeUrl="https://buy.stripe.com/test_7sIaHtazf3WT26Q9AZ"
-	includes1="&#8226; 1 x Offical Gwonli Shirt"
+	includes1="&#8226; 1 x Official Gwonli Shirt"
 	includes2=""
 	includes3=""
 	FabCare=""

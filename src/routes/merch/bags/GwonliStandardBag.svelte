@@ -31,7 +31,7 @@
 	SizeColourButton="hidden"
 	NoSizeLink="https://buy.stripe.com/eVafZUaW59V0cJq00c"
 	hideSecondImage="hidden"
-	includes1="&#8226; 1 x Offical Gwonli Bag"
+	includes1="&#8226; 1 x Official Gwonli Bag"
 	includes2=""
 	includes3=""
 	FabCare=""

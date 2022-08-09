@@ -17,7 +17,7 @@
 </script>
 
 <MerchProductPage
-	name="Offical Gwonli Belt"
+	name="Official Gwonli Belt"
 	price="10.00"
 	description="Replacement belt for student or an additional belt for the belt rack."
 	imageSrc="/images/merch/belts/belts2.png"

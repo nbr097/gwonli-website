@@ -182,7 +182,7 @@
 			</h1>
 			<div class="mt-6 grid grid-cols-1 gap-x-8 gap-y-8 sm:grid-cols-2 sm:gap-y-10 lg:grid-cols-4">
 				<StoreItems
-					name="Gwonli Embroidered Tie"
+					name="Gwonli Hoodie"
 					price="80"
 					subtext="Black / Red Gwonli Hoodie"
 					pageLink="/merch/misc/GwonliHoodie"

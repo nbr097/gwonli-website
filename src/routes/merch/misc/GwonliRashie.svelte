@@ -17,7 +17,7 @@
 </script>
 
 <MerchProductPage
-	name="Offical Gwonli Ranked Rash Shirt"
+	name="Official Gwonli Ranked Rash Shirt"
 	price="50.00"
 	description="The Official Gwonli rash shirt displays your rank in style while you shred up your nearest body of water."
 	imageSrc="/images/merch/shirts/rash.jpg"
@@ -36,7 +36,7 @@
 	mediumUrl="https://buy.stripe.com/test_cN2eXJbDj2SPaDm8x5"
 	largeUrl="https://buy.stripe.com/test_5kA3f122JeBx7ra00y"
 	xlargeUrl="https://buy.stripe.com/test_28og1N5eV3WTbHqcNj"
-	includes1="&#8226; 1 x Offical Gwonli Rash Shirt"
+	includes1="&#8226; 1 x Official Gwonli Rash Shirt"
 	includes2=""
 	includes3=""
 	FabCare=""

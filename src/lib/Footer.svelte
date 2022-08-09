@@ -14,8 +14,8 @@
 				alt="logo"
 			/>
 			<p class="text-justify">
-				Martial arts are codified systems and traditions of combat practices, which are practiced
-				for a number of reasons: as self-defense, military and law enforcement applications, mental
+				Martial arts are codified systems and traditions of combat practices, which are practised
+				for a number of reasons: as self-defence, military and law enforcement applications, mental
 				and spiritual development, and cultural heritage.
 			</p>
 		</div>
@@ -36,7 +36,8 @@
 			</a>
 			<br />
 			<p>
-				<b class="text-red-600">Address:</b><a href="https://goo.gl/maps/y2QU3yDTHTwgCT2k8"
+				<b class="text-red-600">Address:</b>
+				<a href="https://goo.gl/maps/y2QU3yDTHTwgCT2k8"
 					>133 Darley Rd, Upper Caboolture QLD 4510, Australia</a
 				>
 			</p>
