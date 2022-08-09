@@ -3,6 +3,9 @@
 	import AboutTeamItem from '$lib/AboutTeamItem.svelte';
 </script>
 
+<head>
+	<title>Gwonli | About Us</title>
+</head>
 <PageHeader title="About us" />
 <div
 	class="grid overflow-hidden p-8 grid-cols-1 md:grid-cols-3 bg-slate-50 dark:bg-zinc-800 grid-rows-1 gap- grid-flow-row max-w-7xl mx-auto pt-20"

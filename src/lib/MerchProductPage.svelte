@@ -48,7 +48,12 @@
 	export let AdultUniSize;
 	export let KidUniSize;
 	export let SizeGuideButton;
+	export let EmptySpaceDelete;
 </script>
+
+<head>
+	<title>Gwonli | {name}</title>
+</head>
 
 <div class="bg-slate-50 dark:bg-zinc-800 mt-10">
 	<div class="max-w-2xl mx-auto py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
@@ -115,7 +120,7 @@
 					</div>
 				</div>
 
-				<form class="mt-6">
+				<form class="mt-6 {EmptySpaceDelete}">
 					<!-- Colours / Size -->
 					<div>
 						<h3 class="text-lg font-bold text-zinc-800 dark:text-gray-300">{SizeOrColour}</h3>

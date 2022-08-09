@@ -17,7 +17,7 @@
 </script>
 
 <MerchProductPage
-	name="Offical Gwonli Bag"
+	name="Official Gwonli Bag"
 	price="50.00"
 	description="The Official Gwonli Bag is locally made using only the best materials to ensure that
     our students are able to carry their belongings easily whilst representing Gwonli."
@@ -35,4 +35,5 @@
 	includes2=""
 	includes3=""
 	FabCare=""
+	EmptySpaceDelete="hidden"
 />

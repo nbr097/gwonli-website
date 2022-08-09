@@ -2,6 +2,10 @@
 	import Testimonials from '$lib/Testimonials.svelte';
 </script>
 
+<head>
+	<title>Gwonli | Martial Arts</title>
+</head>
+
 <section style="min-height: 50vh;" class="select-none">
 	<div
 		id="carouselCaptions"
@@ -22,7 +26,9 @@
 						style="font-family: renfrew;"
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
-						Courage, <br />Honour,<br />Respect
+						<p>Courage,</p>
+						<p class="py-2">Honour,</p>
+						<p>Respect</p>
 					</div>
 					<div
 						class="box h-min w-max text-white text-right mx-auto text-lg md:-mt-0 -mt-32 md:pt-0"
@@ -52,7 +58,9 @@
 						style="font-family: renfrew;"
 						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-6xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
-						Fall Down<br />7 times,<br />Get up 8
+						<p>Fall Down</p>
+						<p class="py-2">7 times,</p>
+						<p>Get up 8</p>
 					</div>
 					<div
 						class="box w-max text-white -mt-28 md:-mt-0 md:text-right text-center mx-auto text-2xl pl-0 md:pl-7 pt-0 md:pt-0"
@@ -75,9 +83,11 @@
 				>
 					<div
 						style="font-family: renfrew;"
-						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-7xl md:text-9xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
+						class="font-sans uppercase font-bold box col-span-2 bold text-center md:text-right text-white text-7xl md:text-8xl overflow-hidden md:pt-0 pt-24 pr-0 md:pr-10 border-b-4 pb-7 md:pb-0 md:border-b-0 md:border-r-4"
 					>
-						Be the<br />best you<br />can be
+						<p>Be the</p>
+						<p class="py-2">best you</p>
+						<p>can be</p>
 					</div>
 					<div
 						class="box w-max text-white -mt-28 md:-mt-0 text-center md:text-right mx-auto text-2xl pt-0 md:pt-0"

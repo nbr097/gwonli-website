@@ -34,4 +34,5 @@
 	includes2=""
 	includes3=""
 	FabCare="hidden"
+	EmptySpaceDelete="hidden"
 />

@@ -17,7 +17,7 @@
 </script>
 
 <MerchProductPage
-	name="Offical Gwonli MMA Shorts"
+	name="Official Gwonli MMA Shorts"
 	price="50.00"
 	description="The Official Gwonli MMA shorts are hello locally made using only the best materials to ensure they can cope with the rigorous exercises our students are put through while learning martial arts."
 	imageSrc="/images/merch/other/mma-shorts.jpg"
