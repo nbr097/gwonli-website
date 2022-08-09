@@ -2,6 +2,9 @@
 	import PageHeader from '$lib/PageHeader.svelte';
 </script>
 
+<head>
+	<title>Gwonli | Classes</title>
+</head>
 <PageHeader title="Classes" />
 <section
 	class="scroll-smooth h-auto bg-slate-50 dark:bg-zinc-800 dark:text-white text-zinc-800 text-center pt-12"
