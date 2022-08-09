@@ -4,7 +4,7 @@
 
 <PageHeader title="Classes" />
 <section
-	class="scroll-smooth h-auto bg-gray-100 dark:bg-zinc-800 dark:text-white text-zinc-800 text-center pt-12"
+	class="scroll-smooth h-auto bg-slate-50 dark:bg-zinc-800 dark:text-white text-zinc-800 text-center pt-12"
 >
 	<div class="container max-w-7xl mx-auto  ">
 		<div
@@ -41,7 +41,7 @@
 					</h1>
 					<br />
 					<p>Tuesday: 5:00pm - 6:00pm</p>
-					<br/>
+					<br />
 					<p>Thursday: 5:00pm - 6:00pm</p>
 				</div>
 			</div>
@@ -49,7 +49,8 @@
 			<div class="box self-center">
 				<iframe
 					class="rounded-xl justify-center dark:invert dark:grayscale dark:contrast-75 contrast-100 grayscale-0 invert-0"
-					src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14194.001156509888!2d152.9629093!3d-27.2034384!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x15cb7064e6c1f9ed!2sNarangba%20Community%20Centre!5e0!3m2!1sen!2sau!4v1658807509310!5m2!1sen!2sau" width="100%"
+					src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14194.001156509888!2d152.9629093!3d-27.2034384!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x15cb7064e6c1f9ed!2sNarangba%20Community%20Centre!5e0!3m2!1sen!2sau!4v1658807509310!5m2!1sen!2sau"
+					width="100%"
 					height="325"
 					title="burpengary map"
 					style="border:0;"

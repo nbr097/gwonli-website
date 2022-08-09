@@ -5,7 +5,7 @@
 
 <PageHeader title="About us" />
 <div
-	class="grid overflow-hidden grid-cols-3 grid-rows-1 gap-4 grid-flow-row max-w-7xl mx-auto pt-20"
+	class="grid overflow-hidden p-8 grid-cols-1 md:grid-cols-3 bg-slate-50 dark:bg-zinc-800 grid-rows-1 gap- grid-flow-row max-w-7xl mx-auto pt-20"
 >
 	<div class="box">
 		<li class="list-none">
@@ -25,33 +25,27 @@
 							6th Dan Master Instructor
 						</p>
 					</div>
-					<ul class="flex space-x-5">
-						<li>
-							<a
-								href="https://www.facebook.com/groups/488610045413125"
-								target="_blank"
-								class="text-gray-400 hover:text-gray-500"
-							>
-								<span class="sr-only">Facebook</span>
-							</a>
-						</li>
-					</ul>
 				</div>
 			</div>
 		</li>
 	</div>
-	<div class="box col-span-2">
-		<h1 class="text-4xl  text-red-600 pt-16 p-8 text-center" style="font-family:renfrew;">
-			A message from Master Peter
-		</h1>
-		<p class="font-medium text-zinc-800 dark:text-white text-center px-8">
-			"My dream is to bring enjoyment and security of mind and body to as many students as possible,
-			through study and walking together along the Martial path. My past 30+ years as a Martial
-			Artist has shown me what works and what doesn’t, and with Gwonli I am free to ensure all those
-			people spat out by the ‘Belt Factory’ organisations can have somewhere where their training is
-			not limited by their personal situation or bank balance. I will help them to ‘get up the right
-			way’"
-		</p>
+	<div class="box col-span-2 content-center mx-auto my-auto pt-10 md:pt-0 ">
+		<div>
+			<h1
+				class="text-4xl  text-red-600 px-8 pb-6 text-center overflow-hidden"
+				style="font-family:renfrew;"
+			>
+				A message from Master Peter
+			</h1>
+			<p class="font-medium text-zinc-800 dark:text-white text-center md:px-8">
+				"My dream is to bring enjoyment and security of mind and body to as many students as
+				possible, through study and walking together along the Martial path. My past 30+ years as a
+				Martial Artist has shown me what works and what doesn’t, and with Gwonli I am free to ensure
+				all those people spat out by the ‘Belt Factory’ organisations can have somewhere where their
+				training is not limited by their personal situation or bank balance. I will help them to
+				‘get up the right way’"
+			</p>
+		</div>
 	</div>
 </div>
 
@@ -100,7 +94,7 @@
 					name="Luke"
 					role="Trainee Instructor"
 					subtext=""
-					imageSrc="/images/team/Michael.jpg"
+					imageSrc="/images/team/default.svg"
 				/>
 			</ul>
 		</div>

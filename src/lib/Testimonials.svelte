@@ -17,7 +17,7 @@
 		<div class="mb-0">
 			<div class="flex justify-center mb-6">
 				<span
-					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-gray-100 border-4 dark:border-white border-zinc-800"
+					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-white border-zinc-800"
 				>
 					<svg class="h-full w-full text-gray-300" fill="currentColor" viewBox="0 0 24 24">
 						<path
@@ -139,7 +139,7 @@
 		<div class="mb-12 md:mb-0">
 			<div class="flex justify-center mb-6">
 				<span
-					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-gray-100 border-4 dark:border-white border-zinc-800"
+					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-white border-zinc-800"
 				>
 					<svg class="h-full w-full text-gray-300" fill="currentColor" viewBox="0 0 24 24">
 						<path
@@ -259,7 +259,7 @@
 		<div class="mb-12 md:mb-0">
 			<div class="flex justify-center mb-6">
 				<span
-					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-gray-100 border-4 dark:border-white border-zinc-800"
+					class="inline-block h-32 w-32 rounded-full overflow-hidden bg-slate-50 border-4 dark:border-white border-zinc-800"
 				>
 					<svg class="h-full w-full text-gray-300" fill="currentColor" viewBox="0 0 24 24">
 						<path

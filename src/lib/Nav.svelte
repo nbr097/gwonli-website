@@ -70,11 +70,11 @@
 			<NavItem href="/merchandise" name="Merchandise" />
 			<NavItem href="/classes" name="Classes" />
 			<!-- <NavItem href="#gallery" name="Gallery" /> -->
-			<NavItem class=""
+			<NavItem
+				class=""
 				href="mailto:hello@gwonli.com?subject=A%20message%20from%20the%20website"
 				name="Contact us"
 				primary
-				
 			/>
 			<!--
 			<li>

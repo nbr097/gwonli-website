@@ -131,7 +131,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide2"
@@ -148,7 +148,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide3"
@@ -165,7 +165,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide4"
@@ -183,7 +183,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide5"
@@ -201,7 +201,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide6"
@@ -222,7 +222,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide2"
@@ -239,7 +239,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide3"
@@ -256,7 +256,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide4"
@@ -274,7 +274,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide5"
@@ -292,7 +292,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide6"
@@ -309,7 +309,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide6"
@@ -330,7 +330,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide2"
@@ -347,7 +347,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide3"
@@ -364,7 +364,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide4"
@@ -382,7 +382,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide5"
@@ -400,7 +400,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide6"
@@ -417,7 +417,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide6"
@@ -434,7 +434,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide7"
@@ -452,7 +452,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide8"
@@ -470,7 +470,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide9"
@@ -488,7 +488,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide10"
@@ -506,7 +506,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide11"
@@ -524,7 +524,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide12"
@@ -542,7 +542,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide13"
@@ -560,7 +560,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide14"
@@ -578,7 +578,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide15"
@@ -596,7 +596,7 @@
 									type="radio"
 									value=""
 									name="bordered-radio"
-									class="w-4 h-4 text-red-600 bg-gray-100 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
+									class="w-4 h-4 text-red-600 bg-slate-50 border-gray-300 focus:ring-red-500 dark:focus:ring-red-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"
 								/>
 								<label
 									for="slide16"

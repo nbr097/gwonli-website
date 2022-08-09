@@ -1,11 +1,13 @@
 <script>
 	export let title;
-	export let heroImageSrc =
-		'/images/image-header-2.jpg';
+	export let heroImageSrc = '/images/image-header-2.jpg';
 	export let heroImageAlt = 'people practicing martial arts';
 </script>
 
-<div class="relative w-screen h-60 md:h-80 lg:h-96 overflow-hidden mt-20" style="min-height:20vh;">
+<div
+	class="relative w-screen h-60 md:h-80 lg:h-96 overflow-hidden mt-20 bg-slate-50 dark:bg-zinc-800"
+	style="min-height:20vh;"
+>
 	<img
 		src={heroImageSrc}
 		alt={heroImageAlt}
