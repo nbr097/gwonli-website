@@ -13,7 +13,7 @@
 		}
 	});
 
-	import MerchProductPage from './src/lib/MerchProductPage.svelte';
+	import MerchProductPage from '/src/lib/MerchProductPage.svelte';
 </script>
 
 <MerchProductPage
