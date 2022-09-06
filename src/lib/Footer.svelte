@@ -31,7 +31,8 @@
 			<br />
 			<a href="mailto:hello@gwonli.com">
 				<p>
-					<b class="text-red-600">Email:</b> <a href="mailto:hello@gwonli.com">hello@gwonli.com</a>
+					<b class="text-red-600">Email:</b>
+					<a href="mailto:hello@gwonli.com">gwonli@hotmail.com</a>
 				</p>
 			</a>
 			<br />
