@@ -72,7 +72,7 @@
 			<!-- <NavItem href="#gallery" name="Gallery" /> -->
 			<NavItem
 				class=""
-				href="mailto:hello@gwonli.com?subject=A%20message%20from%20the%20website"
+				href="mailto:gwonli@hotmail.com?subject=A%20message%20from%20the%20website"
 				name="Contact us"
 				primary
 			/>
