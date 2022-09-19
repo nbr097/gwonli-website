@@ -97,7 +97,7 @@
 					name="Luke"
 					role="Trainee Instructor"
 					subtext=""
-					imageSrc="/images/team/default.svg"
+					imageSrc="/images/team/Luke.jpg"
 				/>
 			</ul>
 		</div>
