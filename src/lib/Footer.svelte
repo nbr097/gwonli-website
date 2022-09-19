@@ -39,7 +39,7 @@
 			<p>
 				<b class="text-red-600">Address:</b>
 				<a href="https://goo.gl/maps/y2QU3yDTHTwgCT2k8"
-					>133 Darley Rd, Upper Caboolture QLD 4510, Australia</a
+					>Farmer's Assembly Hall, 704 Caboolture River Rd, Upper Caboolture QLD 4510</a
 				>
 			</p>
 			<br />
