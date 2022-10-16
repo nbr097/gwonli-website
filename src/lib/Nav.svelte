@@ -20,7 +20,8 @@
 						/>
 						<img
 							class="h-0 dark:h-20 invisible dark:visible object-scale-down"
-							src="https://raw.githubusercontent.com/nbr097/gwonli/main/logo%20white.png"
+							src="test/static/images/logowhite.png"
+							
 							alt="logo"
 						/>
 					</a>
@@ -30,7 +31,7 @@
 						<span
 							style="font-family:'renfrew"
 							class="invisible h-0 lg:h-10 lg:visible lg:text-2xl xl:text-3xl lg:py-1 text-zinc-800 dark:text-white uppercase font-bold overflow-hidden"
-							>Gwonli Martial Arts</span
+							>Carpet & Pests</span
 						>
 					</a>
 				</div>
