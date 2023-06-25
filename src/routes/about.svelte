@@ -74,25 +74,12 @@
 				/>
 
 				<AboutTeamItem
-					name="Tony"
-					role="3rd Dan Senior Instructor"
-					subtext="Kyo Sah Nim"
-					imageSrc="/images/team/Tony.jpg"
-				/>
-
-				<AboutTeamItem
 					name="Tim"
 					role="Instructor"
 					subtext="Kyo Bu Nim"
 					imageSrc="/images/team/Tim.jpg"
 				/>
 
-				<AboutTeamItem
-					name="Michael"
-					role="Junior Instructor"
-					subtext="Cho Dan Bo"
-					imageSrc="/images/team/Michael.jpg"
-				/>
 				<AboutTeamItem
 					name="Luke"
 					role="Trainee Instructor"
