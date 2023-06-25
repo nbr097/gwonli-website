@@ -76,7 +76,6 @@
 				name="Contact us"
 				primary
 			/>
-			<!--
 			<li>
 				<button
 					on:click={() => {
@@ -107,7 +106,6 @@
 					</svg>
 				</button>
 			</li>
-			-->
 		</menu>
 	</div>
 </nav>
