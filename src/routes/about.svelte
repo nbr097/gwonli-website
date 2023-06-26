@@ -85,7 +85,7 @@
 					role="Trainee Instructor"
 					subtext=""
 					imageSrc="/images/team/Luke2.jpg"
-					class="bg-top"
+					style="padding-top:20px"
 				/>
 			</ul>
 		</div>
