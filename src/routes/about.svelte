@@ -74,13 +74,6 @@
 				/>
 
 				<AboutTeamItem
-					name="Tim"
-					role="Instructor"
-					subtext="Kyo Bu Nim"
-					imageSrc="/images/team/Tim.jpg"
-				/>
-
-				<AboutTeamItem
 					name="Luke"
 					role="Trainee Instructor"
 					subtext=""
@@ -92,6 +85,7 @@
 					role="Trainee Instructor"
 					subtext=""
 					imageSrc="/images/team/Luke2.jpg"
+					class="bg-top"
 				/>
 			</ul>
 		</div>
