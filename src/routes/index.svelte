@@ -10,10 +10,13 @@
 	<div
 		id="carouselCaptions"
 		class="carousel carousel-fade carousel-dark slide relative"
-		data-bs-ride="carousel"
-	>
+		data-te-carousel-init
+		data-te-carousel-slide
+		>
 		<div class="carousel-inner relative w-full overflow-hidden">
-			<div class="carousel-item active relative float-left w-full">
+			<div class="carousel-item active relative float-left w-full"
+			data-te-carousel-item
+			data-te-carousel-active>
 				<img
 					src="/images/background/bg1.jpg"
 					class="block w-full object-cover max-h-screen min-h-screen"
@@ -45,7 +48,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="carousel-item relative float-left w-full">
+			<div class="carousel-item relative float-left w-full"
+			data-te-carousel-item>
 				<img
 					src="/images/background/bg2.jpg"
 					class="block w-full object-cover max-h-screen min-h-screen"
@@ -72,7 +76,8 @@
 					</div>
 				</div>
 			</div>
-			<div class="carousel-item relative float-left w-full">
+			<div class="carousel-item relative float-left w-full"
+			data-te-carousel-item>
 				<img
 					src="/images/background/bg4.jpg"
 					class="block w-full object-cover max-h-screen min-h-screen"
