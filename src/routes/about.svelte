@@ -86,6 +86,13 @@
 					subtext=""
 					imageSrc="/images/team/Luke.jpg"
 				/>
+
+				<AboutTeamItem
+					name="Luke"
+					role="Trainee Instructor"
+					subtext=""
+					imageSrc="/images/team/Luke2.jpg"
+				/>
 			</ul>
 		</div>
 	</div>
