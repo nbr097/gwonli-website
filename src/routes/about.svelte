@@ -84,8 +84,7 @@
 					name="Luke"
 					role="Trainee Instructor"
 					subtext=""
-					imageSrc="/images/team/Luke2.jpg"
-					style="padding-top:20px"
+					imageSrc="/images/team/Luke3.jpg"
 				/>
 			</ul>
 		</div>
